@@ -55,12 +55,15 @@ This project relies on the outstanding HuSpacy NLP toolkit. Special thanks to Zs
 
 ## Citation
 
-@misc{HuSpaCy,
-author = {Zsolt Gyarmati},
-title = {HuSpaCy: an industrial-strength Hungarian NLP toolkit},
-year = {2020},
-publisher = {GitHub},
-journal = {GitHub repository},
-howpublished = {\\url{https://github.com/huspacy/huspacy}},
+@InProceedings{HuSpaCy:2023,
+    author= {"Orosz, Gy{\"o}rgy and Szab{\'o}, Gerg{\H{o}} and Berkecz, P{\'e}ter and Sz{\'a}nt{\'o}, Zsolt and Farkas, Rich{\'a}rd"},
+    editor= {"Ek{\v{s}}tein, Kamil and P{\'a}rtl, Franti{\v{s}}ek and Konop{\'i}k, Miloslav"},
+    title = {{"Advancing Hungarian Text Processing with HuSpaCy: Efficient and Accurate NLP Pipelines"}},
+    booktitle = {{"Text, Speech, and Dialogue"}},
+    year = "2023",
+    publisher = {{"Springer Nature Switzerland"}},
+    address = {{"Cham"}},
+    pages = "58--69",
+    isbn = "978-3-031-40498-6"
 }
 
