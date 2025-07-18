@@ -1,0 +1,1001 @@
+Ticket_ID,Date,Machine,Description
+1,2023-01-01,Hidraulikus prés-10,A vészjelző rendszer váratlan hibát jelzett.
+2,2023-01-01,Hegesztő-MAX,A kenőrendszer olajszintje az alsó határérték alá csökkent.
+3,2023-01-01,Robot 2,A gépdiagnosztikai teszt során kommunikációs hibát észleltek.
+4,2023-01-02,Optikai Mérő-2,Hirtelen áramfelvétel-növekedés figyelhető meg.
+5,2023-01-02,Lézeres Vágó-Pro,A csapágyak extrém kopást mutatnak.
+6,2023-01-02,Robot X,A gép kimeneti teljesítménye csökkent a meghajtó egység hibája miatt.
+7,2023-01-03,Szenzorvezérlő-3,A csatlakozók oxidációs nyomokat mutatnak.
+8,2023-01-03,Szenzorvezérlő-1,A szinkronizáció megszakadt a vezérlőegységek között.
+9,2023-01-03,Présgép-9,Rendellenes rezgés működés közben.
+10,2023-01-04,Optikai Mérő-2,A szinkronizáció megszakadt a vezérlőegységek között.
+11,2023-01-04,Maró-8,Kopott fogaskerék cseréje szükséges.
+12,2023-01-04,Robot 2,Rendellenes rezgés működés közben.
+13,2023-01-05,CNC-Micro,A süllyesztő mechanizmus belső csapágyai sérültek.
+14,2023-01-05,Szenzorvezérlő-Beta,Az áramellátás stabilitása nem garantálható a jelenlegi terhelés mellett.
+15,2023-01-05,Fúró-5,Törött tömítés az olajtartályon.
+16,2023-01-06,Optikai Mérő-X,A PLC vezérlőegység áramszünet miatt újraindult.
+17,2023-01-06,CNC-3,A motor túlmelegedett és leállt.
+18,2023-01-06,Emelőkar-3,Az alkatrész érzékelő hibás adatokat továbbít.
+19,2023-01-07,CNC-Pro,Túlzott zaj a fogaskerék mechanizmusból.
+20,2023-01-07,Fúró-5,Az érzékelők jelzése nem egyezik a valós pozícióval.
+21,2023-01-07,Lézeres Vágó-Pro,A lánchajtás mechanikai deformációt szenvedett.
+22,2023-01-08,Maró-Z,A hőmérséklet-szabályozó egység hibás jeleket küld.
+23,2023-01-08,Lézeres Vágó-Pro,A szoftver modul inkompatibilitása miatt a rendszer nem indítható.
+24,2023-01-08,Hegesztő-XL,A robotkar mozgása akadozik.
+25,2023-01-09,Robot X,A szállítószalag lánca megszakadt.
+26,2023-01-09,Optikai Mérő-2,A szinkronizáció megszakadt a vezérlőegységek között.
+27,2023-01-09,Szenzorvezérlő-1,Laza csatlakozás a fő tápbemeneten.
+28,2023-01-10,Maró-2,A pneumatikus rendszer tömítetlenséget mutat.
+29,2023-01-10,Lézeres Vágó-Pro,Az energiafogyasztás jelentősen megnőtt az elmúlt ciklusban.
+30,2023-01-10,Présgép-Plus,A rendszer kritikus memóriahibát észlelt.
+31,2023-01-11,Robot Delta,Alacsony hidraulikus nyomás észlelve.
+32,2023-01-11,Optikai Mérő-2,A vészjelző rendszer váratlan hibát jelzett.
+33,2023-01-11,Optikai Mérő-Delta,A vezérlőpult kijelzőjén torz képi megjelenés tapasztalható.
+34,2023-01-12,CNC-3,A csapágyak extrém kopást mutatnak.
+35,2023-01-12,CNC-3,Az elektrohidraulikus szelep elakadt működés közben.
+36,2023-01-12,Hidraulikus prés-Y,A szállítószalag lánca megszakadt.
+37,2023-01-13,Szenzorvezérlő-Beta,Az eszköz firmware-jének újraindítása sikertelen volt.
+38,2023-01-13,Hegesztő-MAX,Az automatizált szoftverfrissítés során hibakódot jelezett.
+39,2023-01-13,Fúró-X,Porfelhalmozódás az optikai szenzoron.
+40,2023-01-14,Emelőkar-3,A motor túlmelegedett és leállt.
+41,2023-01-14,Maró-Z,A motor túlmelegedett és leállt.
+42,2023-01-14,Fúró-MAX,A szervomotor nem tartja a beállított pozíciót.
+43,2023-01-15,Hidraulikus prés-4,A vezérlőpult kijelzőjén torz képi megjelenés tapasztalható.
+44,2023-01-15,Hegesztő-1,Az olajszűrő rendszer eltömődött.
+45,2023-01-15,Fúró-12,Az elektrohidraulikus szelep elakadt működés közben.
+46,2023-01-16,Robot Delta,Hűtőrendszer meghibásodás jelentve.
+47,2023-01-16,Optikai Mérő-2,A motor túlmelegedett és leállt.
+48,2023-01-16,Optikai Mérő-X,A szállítószalag lánca megszakadt.
+49,2023-01-17,Lézeres Vágó-A,A hőmérséklet meghaladja a biztonságos határt.
+50,2023-01-17,Lézeres Vágó-Pro,A hidraulikus olaj hőmérséklete meghaladta a biztonsági szintet.
+51,2023-01-17,Hidraulikus prés-Y,A hőcserélő szivárog a csatlakozási pontnál.
+52,2023-01-18,Szállítószalag-7,Az alkatrész érzékelő hibás adatokat továbbít.
+53,2023-01-18,Szállítószalag-7,Az elektrohidraulikus szelep elakadt működés közben.
+54,2023-01-18,Hegesztő-1,A kenőrendszer olajszintje az alsó határérték alá csökkent.
+55,2023-01-19,Fúró-X,Igazítási probléma a robotkarban.
+56,2023-01-19,Szenzorvezérlő-1,A motor túlmelegedett és leállt.
+57,2023-01-19,Maró-Z,Az energiafogyasztás jelentősen megnőtt az elmúlt ciklusban.
+58,2023-01-20,Fúró-MAX,A láncmechanizmus meghibásodott.
+59,2023-01-20,Présgép-9,A hidraulikus olaj hőmérséklete meghaladta a biztonsági szintet.
+60,2023-01-20,Fúró-12,A robotvezérlő és a mechanika szinkronizációja megszakadt.
+61,2023-01-21,CNC-Micro,A pneumatikus csatlakozók között nyomásveszteség tapasztalható.
+62,2023-01-21,Hidraulikus prés-10,A vibrációérzékelő határérték feletti értéket mutatott.
+63,2023-01-21,Robot Alpha,Túlzott zaj a fogaskerék mechanizmusból.
+64,2023-01-22,Hidraulikus prés-4,Beragadt működtető a lift mechanizmusban.
+65,2023-01-22,Szenzorvezérlő-3,Túláramvédelem ismételten aktiválódik.
+66,2023-01-22,Robot Delta,Igazítási probléma a robotkarban.
+67,2023-01-23,Hidraulikus prés-10,Az elektromos motor szénkeféi elhasználódtak.
+68,2023-01-23,Optikai Mérő-Delta,A motor túlmelegedett és leállt.
+69,2023-01-23,Lézeres Vágó-B,Az adagoló rendszerben eltömődés történt.
+70,2023-01-24,Emelőkar-3,Beragadt működtető a lift mechanizmusban.
+71,2023-01-24,Maró-2,A pneumatikus rendszer tömítetlenséget mutat.
+72,2023-01-24,Hegesztő-MAX,Törött tömítés az olajtartályon.
+73,2023-01-25,Emelőkar-X,Gyakori olajszivárgás a hajtótengely közelében.
+74,2023-01-25,Présgép-1,A vezérlőpult kijelzőjén torz képi megjelenés tapasztalható.
+75,2023-01-25,CNC-Pro,Porfelhalmozódás az optikai szenzoron.
+76,2023-01-26,Optikai Mérő-X,A kenőrendszer olajszintje az alsó határérték alá csökkent.
+77,2023-01-26,Lézeres Vágó-A,A szinkronizáció megszakadt a vezérlőegységek között.
+78,2023-01-26,Hidraulikus prés-4,A vészjelző rendszer váratlan hibát jelzett.
+79,2023-01-27,Robot Delta,Az automatizált szoftverfrissítés során hibakódot jelezett.
+80,2023-01-27,Présgép-9,A kenőrendszer olajszintje az alsó határérték alá csökkent.
+81,2023-01-27,Maró-2,A szivattyú működése közben szokatlan zaj hallható.
+82,2023-01-28,Optikai Mérő-2,A vészjelző rendszer váratlan hibát jelzett.
+83,2023-01-28,Szállítószalag-Z,Az elektrohidraulikus szelep elakadt működés közben.
+84,2023-01-28,Szenzorvezérlő-3,A motor túlmelegedett és leállt.
+85,2023-01-29,CNC-7,Túlmelegedett a hajtómotor működés közben.
+86,2023-01-29,Lézeres Vágó-Pro,A gép kimeneti teljesítménye csökkent a meghajtó egység hibája miatt.
+87,2023-01-29,Présgép-Plus,A PLC vezérlőegység áramszünet miatt újraindult.
+88,2023-01-30,Robot 2,A csapágyak extrém kopást mutatnak.
+89,2023-01-30,Hegesztő-XL,A lánchajtás mechanikai deformációt szenvedett.
+90,2023-01-30,Fúró-12,Kopott fogaskerék cseréje szükséges.
+91,2023-01-31,Emelőkar-3,Hirtelen áramfelvétel-növekedés figyelhető meg.
+92,2023-01-31,Optikai Mérő-Delta,A berendezés érzékelője hamis riasztásokat generál.
+93,2023-01-31,Optikai Mérő-2,A szállítószalag lánca megszakadt.
+94,2023-02-01,Présgép-9,A gépdiagnosztikai teszt során kommunikációs hibát észleltek.
+95,2023-02-01,Szállítószalag-C,A szenzorok hibás adatokat küldenek a vezérlőegységnek.
+96,2023-02-01,Robot 2,Kopott fogaskerék cseréje szükséges.
+97,2023-02-02,Maró-8,A vészleállító gomb nem működött megfelelően.
+98,2023-02-02,Fúró-MAX,Az elektromos motor szénkeféi elhasználódtak.
+99,2023-02-02,Lézeres Vágó-A,Az energiafogyasztás jelentősen megnőtt az elmúlt ciklusban.
+100,2023-02-03,Lézeres Vágó-A,A vezérlőpanel időnként nem reagál.
+101,2023-02-03,Hidraulikus prés-10,Az integrált áramkör hőtúlterhelést kapott.
+102,2023-02-03,Szenzorvezérlő-3,A hőmérséklet-szabályozó egység hibás jeleket küld.
+103,2023-02-04,Lézeres Vágó-Pro,Az optikai érzékelőt zsírréteg borítja.
+104,2023-02-04,CNC-Pro,A láncmechanizmus meghibásodott.
+105,2023-02-04,Robot 2,A kenőrendszer olajszintje az alsó határérték alá csökkent.
+106,2023-02-05,Szenzorvezérlő-1,Az elektrohidraulikus szelep elakadt működés közben.
+107,2023-02-05,Hidraulikus prés-4,A szenzorok hibás adatokat küldenek a vezérlőegységnek.
+108,2023-02-05,Optikai Mérő-Delta,A pneumatikus csatlakozók között nyomásveszteség tapasztalható.
+109,2023-02-06,Emelőkar-X,A robotvezérlő és a mechanika szinkronizációja megszakadt.
+110,2023-02-06,Présgép-9,Az integrált áramkör hőtúlterhelést kapott.
+111,2023-02-06,Robot Delta,Kopott fogaskerék cseréje szükséges.
+112,2023-02-07,Emelőkar-X,A robotkar mozgása akadozik.
+113,2023-02-07,CNC-7,Hűtőrendszer meghibásodás jelentve.
+114,2023-02-07,Szállítószalag-C,Túlmelegedett a hajtómotor működés közben.
+115,2023-02-08,Présgép-9,Túlmelegedett a hajtómotor működés közben.
+116,2023-02-08,Lézeres Vágó-B,Szenzorhiba hibás vezetékezés miatt.
+117,2023-02-08,Robot 2,Laza csatlakozás a fő tápbemeneten.
+118,2023-02-09,Fúró-5,Az alkatrész érzékelő hibás adatokat továbbít.
+119,2023-02-09,Lézeres Vágó-Pro,Igazítási probléma a robotkarban.
+120,2023-02-09,Présgép-Plus,A sebességváltó fogaskerekei nem kapcsolódnak megfelelően.
+121,2023-02-10,Szenzorvezérlő-Beta,A hűtőventilátor fordulatszáma csökkent.
+122,2023-02-10,Szenzorvezérlő-3,A gép kimeneti teljesítménye csökkent a meghajtó egység hibája miatt.
+123,2023-02-10,Lézeres Vágó-Pro,A hűtőventilátor fordulatszáma csökkent.
+124,2023-02-11,Maró-8,Szenzorhiba hibás vezetékezés miatt.
+125,2023-02-11,CNC-3,A szinkronizáció megszakadt a vezérlőegységek között.
+126,2023-02-11,Présgép-9,A PLC vezérlőegység áramszünet miatt újraindult.
+127,2023-02-12,Szenzorvezérlő-3,A hidraulikus olaj hőmérséklete meghaladta a biztonsági szintet.
+128,2023-02-12,Maró-Z,A gépindítás közben váratlan rendszerindítás történt.
+129,2023-02-12,Maró-2,Rendellenes rezgés működés közben.
+130,2023-02-13,Maró-Z,Firmware inkompatibilitás frissítés után.
+131,2023-02-13,Maró-2,A vezérlőpult kijelzőjén torz képi megjelenés tapasztalható.
+132,2023-02-13,Hegesztő-XL,A feszültségszabályozó hibásan működik.
+133,2023-02-14,Hidraulikus prés-4,A vákuumrendszer szivárgást jelez.
+134,2023-02-14,Emelőkar-X,Váratlan leállás szoftverhiba miatt.
+135,2023-02-14,Hidraulikus prés-4,A szinkronizáció megszakadt a vezérlőegységek között.
+136,2023-02-15,CNC-7,A vészjelző rendszer váratlan hibát jelzett.
+137,2023-02-15,Hegesztő-MAX,Rendellenes rezgés működés közben.
+138,2023-02-15,Szállítószalag-B,A lánchajtás mechanikai deformációt szenvedett.
+139,2023-02-16,Szállítószalag-B,A hőmérséklet meghaladja a biztonságos határt.
+140,2023-02-16,Hegesztő-XL,Áramkimaradás történt a vezérlőegységnél.
+141,2023-02-16,Robot 2,Rendellenes rezgés működés közben.
+142,2023-02-17,Hegesztő-MAX,Az érzékelők jelzése nem egyezik a valós pozícióval.
+143,2023-02-17,Maró-8,Az üzemanyag-ellátó rendszer nyomásingadozást tapasztalt.
+144,2023-02-17,Szállítószalag-7,A szivattyú működése közben szokatlan zaj hallható.
+145,2023-02-18,Robot X,A hőcserélő szivárog a csatlakozási pontnál.
+146,2023-02-18,Szenzorvezérlő-1,A feszültségszabályozó hibásan működik.
+147,2023-02-18,Hidraulikus prés-Y,A süllyesztő mechanizmus belső csapágyai sérültek.
+148,2023-02-19,Fúró-12,Túláramvédelem ismételten aktiválódik.
+149,2023-02-19,CNC-3,Az optikai érzékelőt zsírréteg borítja.
+150,2023-02-19,CNC-Micro,A lánchajtás mechanikai deformációt szenvedett.
+151,2023-02-20,CNC-3,Gyakori olajszivárgás a hajtótengely közelében.
+152,2023-02-20,Hegesztő-1,A hálózati csatlakozónál magas hőmérsékletet észleltek.
+153,2023-02-20,Szállítószalag-Z,A vákuumrendszer szivárgást jelez.
+154,2023-02-21,CNC-Micro,A hálózati csatlakozónál magas hőmérsékletet észleltek.
+155,2023-02-21,Hegesztő-1,Az érzékelők jelzése nem egyezik a valós pozícióval.
+156,2023-02-21,Robot X,A csapágyak extrém kopást mutatnak.
+157,2023-02-22,Robot Delta,A PLC vezérlőegység áramszünet miatt újraindult.
+158,2023-02-22,Szenzorvezérlő-1,A szervomotor nem tartja a beállított pozíciót.
+159,2023-02-22,Présgép-9,Alacsony hidraulikus nyomás észlelve.
+160,2023-02-23,Hegesztő-1,Szenzorhiba hibás vezetékezés miatt.
+161,2023-02-23,Fúró-5,A csapágyak extrém kopást mutatnak.
+162,2023-02-23,Optikai Mérő-X,A PLC vezérlőegység áramszünet miatt újraindult.
+163,2023-02-24,Szenzorvezérlő-3,A hőmérséklet érzékelő nem reagál a tesztparancsokra.
+164,2023-02-24,Lézeres Vágó-B,Az eszköz firmware-jének újraindítása sikertelen volt.
+165,2023-02-24,Hidraulikus prés-Y,Az érzékelők jelzése nem egyezik a valós pozícióval.
+166,2023-02-25,Robot Delta,Az adagoló rendszerben eltömődés történt.
+167,2023-02-25,CNC-Pro,A szivattyú működése közben szokatlan zaj hallható.
+168,2023-02-25,CNC-Micro,A vészjelző rendszer váratlan hibát jelzett.
+169,2023-02-26,Fúró-MAX,A robotkar mozgása akadozik.
+170,2023-02-26,Hidraulikus prés-10,Igazítási probléma a robotkarban.
+171,2023-02-26,Szállítószalag-Z,A hidraulikus olaj hőmérséklete meghaladta a biztonsági szintet.
+172,2023-02-27,CNC-3,Áramkimaradás történt a vezérlőegységnél.
+173,2023-02-27,Fúró-MAX,Az érzékelők jelzése nem egyezik a valós pozícióval.
+174,2023-02-27,Maró-2,A hálózati csatlakozónál magas hőmérsékletet észleltek.
+175,2023-02-28,CNC-Micro,A vezérlőpult kijelzőjén torz képi megjelenés tapasztalható.
+176,2023-02-28,Lézeres Vágó-Pro,Túlmelegedett a hajtómotor működés közben.
+177,2023-02-28,Szállítószalag-7,Az optikai érzékelőt zsírréteg borítja.
+178,2023-03-01,Fúró-X,Az energiafogyasztás jelentősen megnőtt az elmúlt ciklusban.
+179,2023-03-01,CNC-7,Az üzemanyag-ellátó rendszer nyomásingadozást tapasztalt.
+180,2023-03-01,Fúró-12,Igazítási probléma a robotkarban.
+181,2023-03-02,Emelőkar-Pro,A csapágyak extrém kopást mutatnak.
+182,2023-03-02,Hegesztő-1,Beragadt működtető a lift mechanizmusban.
+183,2023-03-02,Szenzorvezérlő-Beta,Az eszköz firmware-jének újraindítása sikertelen volt.
+184,2023-03-03,CNC-Pro,Laza csatlakozás a fő tápbemeneten.
+185,2023-03-03,Szállítószalag-7,Laza csatlakozás a fő tápbemeneten.
+186,2023-03-03,Présgép-Plus,A gép kimeneti teljesítménye csökkent a meghajtó egység hibája miatt.
+187,2023-03-04,Fúró-MAX,A gép kimeneti teljesítménye csökkent a meghajtó egység hibája miatt.
+188,2023-03-04,CNC-Pro,Nem reagál az érintőképernyő a vezérlőpanelen.
+189,2023-03-04,Szállítószalag-B,A vezérlőpanel időnként nem reagál.
+190,2023-03-05,Hidraulikus prés-4,Szenzorhiba hibás vezetékezés miatt.
+191,2023-03-05,Fúró-5,Igazítási probléma a robotkarban.
+192,2023-03-05,Présgép-9,Az adagoló rendszerben eltömődés történt.
+193,2023-03-06,Emelőkar-3,A lánchajtás mechanikai deformációt szenvedett.
+194,2023-03-06,Présgép-Plus,A berendezés érzékelője hamis riasztásokat generál.
+195,2023-03-06,Hegesztő-XL,A sebességváltó fogaskerekei nem kapcsolódnak megfelelően.
+196,2023-03-07,Szenzorvezérlő-1,A sebességváltó fogaskerekei nem kapcsolódnak megfelelően.
+197,2023-03-07,Robot Alpha,A hálózati csatlakozónál magas hőmérsékletet észleltek.
+198,2023-03-07,Hegesztő-XL,Túláramvédelem ismételten aktiválódik.
+199,2023-03-08,Szállítószalag-Z,A szenzorok hibás adatokat küldenek a vezérlőegységnek.
+200,2023-03-08,Fúró-MAX,A hidraulikus olaj hőmérséklete meghaladta a biztonsági szintet.
+201,2023-03-08,Szállítószalag-7,A gépindítás közben váratlan rendszerindítás történt.
+202,2023-03-09,Maró-2,A robotvezérlő és a mechanika szinkronizációja megszakadt.
+203,2023-03-09,Hidraulikus prés-10,A robotkar mozgása akadozik.
+204,2023-03-09,Szállítószalag-Z,Váratlan leállás szoftverhiba miatt.
+205,2023-03-10,Lézeres Vágó-B,Az érzékelők jelzése nem egyezik a valós pozícióval.
+206,2023-03-10,Hidraulikus prés-10,Kopott fogaskerék cseréje szükséges.
+207,2023-03-10,Emelőkar-3,Túlmelegedett a hajtómotor működés közben.
+208,2023-03-11,Optikai Mérő-2,A hűtőventilátor fordulatszáma csökkent.
+209,2023-03-11,Robot X,A láncmechanizmus meghibásodott.
+210,2023-03-11,Szenzorvezérlő-Beta,A sebességváltó fogaskerekei nem kapcsolódnak megfelelően.
+211,2023-03-12,Fúró-X,Az üzemanyag-ellátó rendszer nyomásingadozást tapasztalt.
+212,2023-03-12,Emelőkar-X,A szinkronizáció megszakadt a vezérlőegységek között.
+213,2023-03-12,Fúró-5,A szoftver modul inkompatibilitása miatt a rendszer nem indítható.
+214,2023-03-13,Maró-8,Törött tömítés az olajtartályon.
+215,2023-03-13,Szenzorvezérlő-3,Az üzemanyag-ellátó rendszer nyomásingadozást tapasztalt.
+216,2023-03-13,Szenzorvezérlő-Beta,Hűtőrendszer meghibásodás jelentve.
+217,2023-03-14,Hegesztő-XL,Túlmelegedett a hajtómotor működés közben.
+218,2023-03-14,Emelőkar-X,Az elektrohidraulikus szelep elakadt működés közben.
+219,2023-03-14,Emelőkar-3,A sebességváltó fogaskerekei nem kapcsolódnak megfelelően.
+220,2023-03-15,Hidraulikus prés-Y,Nem reagál az érintőképernyő a vezérlőpanelen.
+221,2023-03-15,Szállítószalag-7,A szenzor kalibrálása sikertelen volt.
+222,2023-03-15,Lézeres Vágó-Pro,Hűtőrendszer meghibásodás jelentve.
+223,2023-03-16,Lézeres Vágó-Pro,A hidraulikus olaj hőmérséklete meghaladta a biztonsági szintet.
+224,2023-03-16,Présgép-9,Az automatizált szoftverfrissítés során hibakódot jelezett.
+225,2023-03-16,Hidraulikus prés-Y,A szoftver modul inkompatibilitása miatt a rendszer nem indítható.
+226,2023-03-17,Lézeres Vágó-A,A berendezés érzékelője hamis riasztásokat generál.
+227,2023-03-17,Robot X,Túlmelegedett a hajtómotor működés közben.
+228,2023-03-17,Szenzorvezérlő-3,A szinkronizáció megszakadt a vezérlőegységek között.
+229,2023-03-18,Robot X,A vészjelző rendszer váratlan hibát jelzett.
+230,2023-03-18,Szenzorvezérlő-Beta,A szervomotor nem tartja a beállított pozíciót.
+231,2023-03-18,Lézeres Vágó-B,A szenzorok hibás adatokat küldenek a vezérlőegységnek.
+232,2023-03-19,Présgép-Plus,Az elektrohidraulikus szelep elakadt működés közben.
+233,2023-03-19,Szállítószalag-B,Törött tömítés az olajtartályon.
+234,2023-03-19,Hegesztő-XL,A vibrációérzékelő határérték feletti értéket mutatott.
+235,2023-03-20,Lézeres Vágó-Pro,A rendszer kritikus memóriahibát észlelt.
+236,2023-03-20,Fúró-MAX,A rendszer kritikus memóriahibát észlelt.
+237,2023-03-20,Szállítószalag-7,A vészjelző rendszer váratlan hibát jelzett.
+238,2023-03-21,Robot Delta,A hidraulikus olaj hőmérséklete meghaladta a biztonsági szintet.
+239,2023-03-21,Emelőkar-Pro,A PLC vezérlőegység áramszünet miatt újraindult.
+240,2023-03-21,Hegesztő-MAX,Gyakori olajszivárgás a hajtótengely közelében.
+241,2023-03-22,Hegesztő-MAX,A robotvezérlő és a mechanika szinkronizációja megszakadt.
+242,2023-03-22,Fúró-12,A szállítószalag lánca megszakadt.
+243,2023-03-22,CNC-Pro,Hirtelen áramfelvétel-növekedés figyelhető meg.
+244,2023-03-23,CNC-3,A csatlakozók oxidációs nyomokat mutatnak.
+245,2023-03-23,Maró-8,Törött tömítés az olajtartályon.
+246,2023-03-23,CNC-7,Az elektrohidraulikus szelep elakadt működés közben.
+247,2023-03-24,Présgép-1,Hűtőrendszer meghibásodás jelentve.
+248,2023-03-24,Lézeres Vágó-B,A láncvezető kopás miatt nem működik megfelelően.
+249,2023-03-24,Szállítószalag-C,A kenőrendszer olajszintje az alsó határérték alá csökkent.
+250,2023-03-25,Robot X,A vészleállító ok nélkül aktiválódott.
+251,2023-03-25,Lézeres Vágó-Pro,Az érzékelők jelzése nem egyezik a valós pozícióval.
+252,2023-03-25,Présgép-Plus,A vezérlőpult kijelzőjén torz képi megjelenés tapasztalható.
+253,2023-03-26,CNC-3,A láncvezető kopás miatt nem működik megfelelően.
+254,2023-03-26,Fúró-MAX,A lánchajtás mechanikai deformációt szenvedett.
+255,2023-03-26,Hegesztő-MAX,A hűtőventilátor fordulatszáma csökkent.
+256,2023-03-27,Szenzorvezérlő-Beta,A sebességváltó fogaskerekei nem kapcsolódnak megfelelően.
+257,2023-03-27,Hegesztő-MAX,Áramkimaradás történt a vezérlőegységnél.
+258,2023-03-27,Fúró-X,Túlzott zaj a fogaskerék mechanizmusból.
+259,2023-03-28,Fúró-5,Áramkimaradás történt a vezérlőegységnél.
+260,2023-03-28,Robot 2,A láncvezető kopás miatt nem működik megfelelően.
+261,2023-03-28,Robot Delta,Az automatizált szoftverfrissítés során hibakódot jelezett.
+262,2023-03-29,Szállítószalag-Z,A PLC vezérlőegység áramszünet miatt újraindult.
+263,2023-03-29,Hidraulikus prés-10,A sebességváltó fogaskerekei nem kapcsolódnak megfelelően.
+264,2023-03-29,Robot Delta,A szállítószalag lánca megszakadt.
+265,2023-03-30,Robot Alpha,A feszültségszabályozó hibásan működik.
+266,2023-03-30,Szállítószalag-Z,A hálózati csatlakozónál magas hőmérsékletet észleltek.
+267,2023-03-30,Hidraulikus prés-10,A hőmérséklet érzékelő nem reagál a tesztparancsokra.
+268,2023-03-31,Hegesztő-1,Az eszköz firmware-jének újraindítása sikertelen volt.
+269,2023-03-31,Szenzorvezérlő-3,A gép kimeneti teljesítménye csökkent a meghajtó egység hibája miatt.
+270,2023-03-31,Lézeres Vágó-A,Az energiafogyasztás jelentősen megnőtt az elmúlt ciklusban.
+271,2023-04-01,Fúró-MAX,Gyakori olajszivárgás a hajtótengely közelében.
+272,2023-04-01,Szenzorvezérlő-Beta,A süllyesztő mechanizmus belső csapágyai sérültek.
+273,2023-04-01,CNC-3,Az elektrohidraulikus szelep elakadt működés közben.
+274,2023-04-02,Szállítószalag-B,Az optikai érzékelőt zsírréteg borítja.
+275,2023-04-02,Présgép-1,A hidraulikus olaj hőmérséklete meghaladta a biztonsági szintet.
+276,2023-04-02,Robot 2,Rendellenes rezgés működés közben.
+277,2023-04-03,CNC-3,Az érzékelők jelzése nem egyezik a valós pozícióval.
+278,2023-04-03,Emelőkar-X,A pneumatikus csatlakozók között nyomásveszteség tapasztalható.
+279,2023-04-03,CNC-3,A szenzor kalibrálása sikertelen volt.
+280,2023-04-04,Lézeres Vágó-B,Laza csatlakozás a fő tápbemeneten.
+281,2023-04-04,Fúró-12,A hőmérséklet-szabályozó egység hibás jeleket küld.
+282,2023-04-04,Hegesztő-XL,A feszültségszabályozó hibásan működik.
+283,2023-04-05,Fúró-12,Gyakori olajszivárgás a hajtótengely közelében.
+284,2023-04-05,Hidraulikus prés-4,Túláramvédelem ismételten aktiválódik.
+285,2023-04-05,Szállítószalag-B,A feszültségszabályozó hibásan működik.
+286,2023-04-06,Szállítószalag-Z,Beragadt működtető a lift mechanizmusban.
+287,2023-04-06,CNC-Pro,A hőmérséklet érzékelő nem reagál a tesztparancsokra.
+288,2023-04-06,Szenzorvezérlő-3,Hirtelen áramfelvétel-növekedés figyelhető meg.
+289,2023-04-07,Maró-Z,A vezérlőpanel időnként nem reagál.
+290,2023-04-07,Emelőkar-X,A robotvezérlő és a mechanika szinkronizációja megszakadt.
+291,2023-04-07,CNC-Micro,A süllyesztő mechanizmus belső csapágyai sérültek.
+292,2023-04-08,Présgép-Plus,Az energiafogyasztás jelentősen megnőtt az elmúlt ciklusban.
+293,2023-04-08,Hegesztő-XL,A láncvezető kopás miatt nem működik megfelelően.
+294,2023-04-08,Hidraulikus prés-10,Firmware inkompatibilitás frissítés után.
+295,2023-04-09,Optikai Mérő-X,Hűtőrendszer meghibásodás jelentve.
+296,2023-04-09,Emelőkar-3,A hidraulikus olaj hőmérséklete meghaladta a biztonsági szintet.
+297,2023-04-09,Présgép-Plus,A motor túlmelegedett és leállt.
+298,2023-04-10,Présgép-Plus,A gépdiagnosztikai teszt során kommunikációs hibát észleltek.
+299,2023-04-10,CNC-3,Az üzemanyag-ellátó rendszer nyomásingadozást tapasztalt.
+300,2023-04-10,Lézeres Vágó-B,A vezérlőpult kijelzőjén torz képi megjelenés tapasztalható.
+301,2023-04-11,Lézeres Vágó-A,Áramkimaradás történt a vezérlőegységnél.
+302,2023-04-11,Présgép-9,Az alkatrész érzékelő hibás adatokat továbbít.
+303,2023-04-11,Szállítószalag-7,A hálózati csatlakozónál magas hőmérsékletet észleltek.
+304,2023-04-12,Présgép-Plus,Gyakori olajszivárgás a hajtótengely közelében.
+305,2023-04-12,Hegesztő-XL,Túlzott zaj a fogaskerék mechanizmusból.
+306,2023-04-12,Présgép-9,Laza csatlakozás a fő tápbemeneten.
+307,2023-04-13,Lézeres Vágó-A,A vészleállító gomb nem működött megfelelően.
+308,2023-04-13,Fúró-MAX,Az energiafogyasztás jelentősen megnőtt az elmúlt ciklusban.
+309,2023-04-13,Hidraulikus prés-Y,A hőmérséklet érzékelő nem reagál a tesztparancsokra.
+310,2023-04-14,Szállítószalag-7,A pneumatikus csatlakozók között nyomásveszteség tapasztalható.
+311,2023-04-14,Fúró-MAX,A hőcserélő szivárog a csatlakozási pontnál.
+312,2023-04-14,CNC-Micro,A hőcserélő szivárog a csatlakozási pontnál.
+313,2023-04-15,Szenzorvezérlő-Beta,A pneumatikus csatlakozók között nyomásveszteség tapasztalható.
+314,2023-04-15,Hidraulikus prés-10,A szállítószalag lánca megszakadt.
+315,2023-04-15,Fúró-12,Az elektromos motor szénkeféi elhasználódtak.
+316,2023-04-16,Szállítószalag-7,A hidraulikus olaj hőmérséklete meghaladta a biztonsági szintet.
+317,2023-04-16,Szállítószalag-C,A hűtőventilátor fordulatszáma csökkent.
+318,2023-04-16,Fúró-12,Alacsony hidraulikus nyomás észlelve.
+319,2023-04-17,Szállítószalag-B,A láncvezető kopás miatt nem működik megfelelően.
+320,2023-04-17,Robot Delta,A csatlakozók oxidációs nyomokat mutatnak.
+321,2023-04-17,Robot 2,A szenzorok hibás adatokat küldenek a vezérlőegységnek.
+322,2023-04-18,Robot X,Nem reagál az érintőképernyő a vezérlőpanelen.
+323,2023-04-18,Robot Alpha,Az automatizált szoftverfrissítés során hibakódot jelezett.
+324,2023-04-18,Szenzorvezérlő-3,A robotkar mozgása akadozik.
+325,2023-04-19,Hidraulikus prés-Y,A láncmechanizmus meghibásodott.
+326,2023-04-19,Emelőkar-X,Az áramellátás stabilitása nem garantálható a jelenlegi terhelés mellett.
+327,2023-04-19,Emelőkar-3,Az olajszűrő rendszer eltömődött.
+328,2023-04-20,Fúró-X,A kenőrendszer olajszintje az alsó határérték alá csökkent.
+329,2023-04-20,Lézeres Vágó-Pro,Az áramellátás stabilitása nem garantálható a jelenlegi terhelés mellett.
+330,2023-04-20,CNC-Micro,A vezérlőpult kijelzőjén torz képi megjelenés tapasztalható.
+331,2023-04-21,Hegesztő-MAX,Nem reagál az érintőképernyő a vezérlőpanelen.
+332,2023-04-21,Fúró-12,Laza csatlakozás a fő tápbemeneten.
+333,2023-04-21,CNC-7,A robotvezérlő és a mechanika szinkronizációja megszakadt.
+334,2023-04-22,Szállítószalag-7,A PLC vezérlőegység áramszünet miatt újraindult.
+335,2023-04-22,Optikai Mérő-X,Törött tömítés az olajtartályon.
+336,2023-04-22,Emelőkar-Pro,A hőmérséklet-szabályozó egység hibás jeleket küld.
+337,2023-04-23,Optikai Mérő-Delta,Az érzékelők jelzése nem egyezik a valós pozícióval.
+338,2023-04-23,Présgép-9,Beragadt működtető a lift mechanizmusban.
+339,2023-04-23,Hidraulikus prés-4,Beragadt működtető a lift mechanizmusban.
+340,2023-04-24,CNC-Pro,Túlmelegedett a hajtómotor működés közben.
+341,2023-04-24,Hidraulikus prés-4,A gépindítás közben váratlan rendszerindítás történt.
+342,2023-04-24,Maró-2,A szervomotor nem tartja a beállított pozíciót.
+343,2023-04-25,Hidraulikus prés-Y,A feszültségszabályozó hibásan működik.
+344,2023-04-25,Robot Delta,A szivattyú működése közben szokatlan zaj hallható.
+345,2023-04-25,Szenzorvezérlő-1,Az olajszűrő rendszer eltömődött.
+346,2023-04-26,Fúró-5,A vezérlőpult kijelzőjén torz képi megjelenés tapasztalható.
+347,2023-04-26,Hegesztő-1,A motor túlmelegedett és leállt.
+348,2023-04-26,Emelőkar-3,A vákuumrendszer szivárgást jelez.
+349,2023-04-27,Szenzorvezérlő-1,A láncvezető kopás miatt nem működik megfelelően.
+350,2023-04-27,Emelőkar-X,Nem reagál az érintőképernyő a vezérlőpanelen.
+351,2023-04-27,Maró-8,Firmware inkompatibilitás frissítés után.
+352,2023-04-28,Fúró-12,A feszültségszabályozó hibásan működik.
+353,2023-04-28,Robot Alpha,A süllyesztő mechanizmus belső csapágyai sérültek.
+354,2023-04-28,CNC-3,Az alkatrész érzékelő hibás adatokat továbbít.
+355,2023-04-29,Lézeres Vágó-Pro,A motor túlmelegedett és leállt.
+356,2023-04-29,Szállítószalag-C,A csatlakozók oxidációs nyomokat mutatnak.
+357,2023-04-29,Szenzorvezérlő-1,A sebességváltó fogaskerekei nem kapcsolódnak megfelelően.
+358,2023-04-30,Hegesztő-XL,Kopott fogaskerék cseréje szükséges.
+359,2023-04-30,Maró-8,A szinkronizáció megszakadt a vezérlőegységek között.
+360,2023-04-30,Szenzorvezérlő-3,A vezérlőpult kijelzőjén torz képi megjelenés tapasztalható.
+361,2023-05-01,CNC-Pro,Nem reagál az érintőképernyő a vezérlőpanelen.
+362,2023-05-01,Lézeres Vágó-B,Az alkatrész érzékelő hibás adatokat továbbít.
+363,2023-05-01,CNC-3,A csatlakozók oxidációs nyomokat mutatnak.
+364,2023-05-02,Maró-Z,Túlmelegedett a hajtómotor működés közben.
+365,2023-05-02,Hegesztő-XL,A hőcserélő szivárog a csatlakozási pontnál.
+366,2023-05-02,CNC-Micro,Rendellenes rezgés működés közben.
+367,2023-05-03,Robot 2,A vészleállító ok nélkül aktiválódott.
+368,2023-05-03,CNC-3,A robotkar mozgása akadozik.
+369,2023-05-03,Szenzorvezérlő-Beta,A szenzorok hibás adatokat küldenek a vezérlőegységnek.
+370,2023-05-04,Optikai Mérő-X,Szenzorhiba hibás vezetékezés miatt.
+371,2023-05-04,Optikai Mérő-Delta,A vezérlőpult kijelzőjén torz képi megjelenés tapasztalható.
+372,2023-05-04,Fúró-12,A robotkar mozgása akadozik.
+373,2023-05-05,Szenzorvezérlő-3,Az elektromos motor szénkeféi elhasználódtak.
+374,2023-05-05,Szállítószalag-7,A kenőrendszer olajszintje az alsó határérték alá csökkent.
+375,2023-05-05,Fúró-5,Laza csatlakozás a fő tápbemeneten.
+376,2023-05-06,Optikai Mérő-2,A berendezés érzékelője hamis riasztásokat generál.
+377,2023-05-06,Présgép-9,A szervomotor nem tartja a beállított pozíciót.
+378,2023-05-06,Optikai Mérő-X,A hőmérséklet meghaladja a biztonságos határt.
+379,2023-05-07,Szenzorvezérlő-1,A süllyesztő mechanizmus belső csapágyai sérültek.
+380,2023-05-07,Maró-2,A vészleállító ok nélkül aktiválódott.
+381,2023-05-07,Robot 2,A hűtőventilátor fordulatszáma csökkent.
+382,2023-05-08,Hidraulikus prés-10,A szinkronizáció megszakadt a vezérlőegységek között.
+383,2023-05-08,Robot Delta,A pneumatikus rendszer tömítetlenséget mutat.
+384,2023-05-08,Lézeres Vágó-B,Az üzemanyag-ellátó rendszer nyomásingadozást tapasztalt.
+385,2023-05-09,Lézeres Vágó-Pro,A vibrációérzékelő határérték feletti értéket mutatott.
+386,2023-05-09,Maró-2,A pneumatikus csatlakozók között nyomásveszteség tapasztalható.
+387,2023-05-09,Hidraulikus prés-Y,Porfelhalmozódás az optikai szenzoron.
+388,2023-05-10,Emelőkar-X,Az optikai érzékelőt zsírréteg borítja.
+389,2023-05-10,Présgép-Plus,A hőmérséklet-szabályozó egység hibás jeleket küld.
+390,2023-05-10,Robot X,A sebességváltó fogaskerekei nem kapcsolódnak megfelelően.
+391,2023-05-11,CNC-Micro,A kenőrendszer olajszintje az alsó határérték alá csökkent.
+392,2023-05-11,Hidraulikus prés-Y,A vibrációérzékelő határérték feletti értéket mutatott.
+393,2023-05-11,Maró-8,A gép kimeneti teljesítménye csökkent a meghajtó egység hibája miatt.
+394,2023-05-12,Fúró-12,A vákuumrendszer szivárgást jelez.
+395,2023-05-12,Lézeres Vágó-B,A szivattyú működése közben szokatlan zaj hallható.
+396,2023-05-12,Lézeres Vágó-Pro,A szenzorok hibás adatokat küldenek a vezérlőegységnek.
+397,2023-05-13,CNC-Micro,Kopott fogaskerék cseréje szükséges.
+398,2023-05-13,Fúró-12,A gépindítás közben váratlan rendszerindítás történt.
+399,2023-05-13,Lézeres Vágó-B,A lánchajtás mechanikai deformációt szenvedett.
+400,2023-05-14,Szállítószalag-Z,Az érzékelők jelzése nem egyezik a valós pozícióval.
+401,2023-05-14,Szenzorvezérlő-3,Váratlan leállás szoftverhiba miatt.
+402,2023-05-14,Szállítószalag-C,Rendellenes rezgés működés közben.
+403,2023-05-15,Emelőkar-Pro,Az érzékelők jelzése nem egyezik a valós pozícióval.
+404,2023-05-15,Maró-8,Az elektrohidraulikus szelep elakadt működés közben.
+405,2023-05-15,Hidraulikus prés-10,A szervomotor nem tartja a beállított pozíciót.
+406,2023-05-16,Hidraulikus prés-4,A vibrációérzékelő határérték feletti értéket mutatott.
+407,2023-05-16,Lézeres Vágó-Pro,A süllyesztő mechanizmus belső csapágyai sérültek.
+408,2023-05-16,Lézeres Vágó-Pro,A sebességváltó fogaskerekei nem kapcsolódnak megfelelően.
+409,2023-05-17,Maró-Z,A vészleállító ok nélkül aktiválódott.
+410,2023-05-17,Szenzorvezérlő-Beta,A szenzor kalibrálása sikertelen volt.
+411,2023-05-17,Hidraulikus prés-Y,A sebességváltó fogaskerekei nem kapcsolódnak megfelelően.
+412,2023-05-18,CNC-Micro,Rendellenes rezgés működés közben.
+413,2023-05-18,Robot Alpha,A lánchajtás mechanikai deformációt szenvedett.
+414,2023-05-18,Emelőkar-X,A hidraulikus olaj hőmérséklete meghaladta a biztonsági szintet.
+415,2023-05-19,Optikai Mérő-Delta,A szoftver modul inkompatibilitása miatt a rendszer nem indítható.
+416,2023-05-19,Szenzorvezérlő-3,Kopott fogaskerék cseréje szükséges.
+417,2023-05-19,Lézeres Vágó-Pro,Túlzott zaj a fogaskerék mechanizmusból.
+418,2023-05-20,Hidraulikus prés-10,A feszültségszabályozó hibásan működik.
+419,2023-05-20,Robot 2,Az integrált áramkör hőtúlterhelést kapott.
+420,2023-05-20,Emelőkar-3,Alacsony hidraulikus nyomás észlelve.
+421,2023-05-21,Hegesztő-1,A szenzorok hibás adatokat küldenek a vezérlőegységnek.
+422,2023-05-21,Hidraulikus prés-4,A vészleállító gomb nem működött megfelelően.
+423,2023-05-21,Robot Alpha,A vákuumrendszer szivárgást jelez.
+424,2023-05-22,Maró-8,Túláramvédelem ismételten aktiválódik.
+425,2023-05-22,Robot X,A vészjelző rendszer váratlan hibát jelzett.
+426,2023-05-22,Robot 2,A vészleállító ok nélkül aktiválódott.
+427,2023-05-23,Hegesztő-1,Gyakori olajszivárgás a hajtótengely közelében.
+428,2023-05-23,Présgép-9,A láncmechanizmus meghibásodott.
+429,2023-05-23,Lézeres Vágó-A,Az elektrohidraulikus szelep elakadt működés közben.
+430,2023-05-24,Lézeres Vágó-Pro,Az eszköz firmware-jének újraindítása sikertelen volt.
+431,2023-05-24,Présgép-Plus,A gép kimeneti teljesítménye csökkent a meghajtó egység hibája miatt.
+432,2023-05-24,Fúró-MAX,A vezérlőpanel időnként nem reagál.
+433,2023-05-25,CNC-Micro,Az olajszűrő rendszer eltömődött.
+434,2023-05-25,CNC-Micro,A szoftver modul inkompatibilitása miatt a rendszer nem indítható.
+435,2023-05-25,CNC-7,Hirtelen áramfelvétel-növekedés figyelhető meg.
+436,2023-05-26,Présgép-1,A süllyesztő mechanizmus belső csapágyai sérültek.
+437,2023-05-26,Szenzorvezérlő-1,A vákuumrendszer szivárgást jelez.
+438,2023-05-26,Lézeres Vágó-Pro,Beragadt működtető a lift mechanizmusban.
+439,2023-05-27,Maró-2,Az alkatrész érzékelő hibás adatokat továbbít.
+440,2023-05-27,Robot 2,Beragadt működtető a lift mechanizmusban.
+441,2023-05-27,Hegesztő-XL,A kenőrendszer olajszintje az alsó határérték alá csökkent.
+442,2023-05-28,CNC-Pro,Az elektromos motor szénkeféi elhasználódtak.
+443,2023-05-28,Emelőkar-3,Áramkimaradás történt a vezérlőegységnél.
+444,2023-05-28,Optikai Mérő-2,Az integrált áramkör hőtúlterhelést kapott.
+445,2023-05-29,Maró-Z,A vákuumrendszer szivárgást jelez.
+446,2023-05-29,Szenzorvezérlő-Beta,A robotkar mozgása akadozik.
+447,2023-05-29,Optikai Mérő-2,A süllyesztő mechanizmus belső csapágyai sérültek.
+448,2023-05-30,Hegesztő-1,A gépindítás közben váratlan rendszerindítás történt.
+449,2023-05-30,Hidraulikus prés-4,A feszültségszabályozó hibásan működik.
+450,2023-05-30,Lézeres Vágó-Pro,Az érzékelők jelzése nem egyezik a valós pozícióval.
+451,2023-05-31,CNC-Micro,A csapágyak extrém kopást mutatnak.
+452,2023-05-31,Emelőkar-3,A sebességváltó fogaskerekei nem kapcsolódnak megfelelően.
+453,2023-05-31,Maró-Z,Az optikai érzékelőt zsírréteg borítja.
+454,2023-06-01,Lézeres Vágó-Pro,Igazítási probléma a robotkarban.
+455,2023-06-01,Robot Alpha,Igazítási probléma a robotkarban.
+456,2023-06-01,Présgép-Plus,Túlmelegedett a hajtómotor működés közben.
+457,2023-06-02,CNC-Micro,Firmware inkompatibilitás frissítés után.
+458,2023-06-02,Optikai Mérő-X,A hőmérséklet meghaladja a biztonságos határt.
+459,2023-06-02,Maró-Z,A vezérlőpult kijelzőjén torz képi megjelenés tapasztalható.
+460,2023-06-03,Emelőkar-3,Nem reagál az érintőképernyő a vezérlőpanelen.
+461,2023-06-03,CNC-Micro,Az érzékelők jelzése nem egyezik a valós pozícióval.
+462,2023-06-03,Emelőkar-Pro,A kenőrendszer olajszintje az alsó határérték alá csökkent.
+463,2023-06-04,Szállítószalag-C,Kopott fogaskerék cseréje szükséges.
+464,2023-06-04,Robot Alpha,A robotkar mozgása akadozik.
+465,2023-06-04,Optikai Mérő-2,A hőmérséklet-szabályozó egység hibás jeleket küld.
+466,2023-06-05,Szállítószalag-7,A rendszer kritikus memóriahibát észlelt.
+467,2023-06-05,Optikai Mérő-2,Az érzékelők jelzése nem egyezik a valós pozícióval.
+468,2023-06-05,Hidraulikus prés-4,Kopott fogaskerék cseréje szükséges.
+469,2023-06-06,Optikai Mérő-Delta,A vészleállító gomb nem működött megfelelően.
+470,2023-06-06,Maró-Z,Az elektrohidraulikus szelep elakadt működés közben.
+471,2023-06-06,Szállítószalag-B,A szinkronizáció megszakadt a vezérlőegységek között.
+472,2023-06-07,CNC-7,Az érzékelők jelzése nem egyezik a valós pozícióval.
+473,2023-06-07,Présgép-Plus,Az áramellátás stabilitása nem garantálható a jelenlegi terhelés mellett.
+474,2023-06-07,Szállítószalag-C,Az automatizált szoftverfrissítés során hibakódot jelezett.
+475,2023-06-08,Robot Alpha,A gép kimeneti teljesítménye csökkent a meghajtó egység hibája miatt.
+476,2023-06-08,Emelőkar-Pro,A vibrációérzékelő határérték feletti értéket mutatott.
+477,2023-06-08,Optikai Mérő-2,Áramkimaradás történt a vezérlőegységnél.
+478,2023-06-09,Szállítószalag-7,Az automatizált szoftverfrissítés során hibakódot jelezett.
+479,2023-06-09,Szenzorvezérlő-3,A vészleállító gomb nem működött megfelelően.
+480,2023-06-09,Hegesztő-1,Porfelhalmozódás az optikai szenzoron.
+481,2023-06-10,Lézeres Vágó-A,Hirtelen áramfelvétel-növekedés figyelhető meg.
+482,2023-06-10,Maró-2,Az eszköz firmware-jének újraindítása sikertelen volt.
+483,2023-06-10,CNC-3,A láncvezető kopás miatt nem működik megfelelően.
+484,2023-06-11,Emelőkar-Pro,A szinkronizáció megszakadt a vezérlőegységek között.
+485,2023-06-11,Présgép-9,Beragadt működtető a lift mechanizmusban.
+486,2023-06-11,Lézeres Vágó-B,Törött tömítés az olajtartályon.
+487,2023-06-12,Fúró-X,Firmware inkompatibilitás frissítés után.
+488,2023-06-12,Présgép-9,Az elektromos motor szénkeféi elhasználódtak.
+489,2023-06-12,Emelőkar-Pro,A hőmérséklet-szabályozó egység hibás jeleket küld.
+490,2023-06-13,Szállítószalag-B,A szenzor kalibrálása sikertelen volt.
+491,2023-06-13,Szállítószalag-7,Az alkatrész érzékelő hibás adatokat továbbít.
+492,2023-06-13,Hegesztő-MAX,Az elektromos motor szénkeféi elhasználódtak.
+493,2023-06-14,Fúró-X,Az adagoló rendszerben eltömődés történt.
+494,2023-06-14,Szenzorvezérlő-3,A vezérlőpanel időnként nem reagál.
+495,2023-06-14,Fúró-12,Túlmelegedett a hajtómotor működés közben.
+496,2023-06-15,Robot X,A rendszer kritikus memóriahibát észlelt.
+497,2023-06-15,Emelőkar-Pro,A hőmérséklet érzékelő nem reagál a tesztparancsokra.
+498,2023-06-15,Szállítószalag-C,Alacsony hidraulikus nyomás észlelve.
+499,2023-06-16,Optikai Mérő-Delta,Az energiafogyasztás jelentősen megnőtt az elmúlt ciklusban.
+500,2023-06-16,CNC-7,A gépindítás közben váratlan rendszerindítás történt.
+501,2023-06-16,Emelőkar-X,Alacsony hidraulikus nyomás észlelve.
+502,2023-06-17,CNC-Pro,A hőmérséklet meghaladja a biztonságos határt.
+503,2023-06-17,Hidraulikus prés-Y,Az integrált áramkör hőtúlterhelést kapott.
+504,2023-06-17,Robot Delta,Alacsony hidraulikus nyomás észlelve.
+505,2023-06-18,Robot 2,Az érzékelők jelzése nem egyezik a valós pozícióval.
+506,2023-06-18,Hegesztő-XL,A robotkar mozgása akadozik.
+507,2023-06-18,CNC-7,A vákuumrendszer szivárgást jelez.
+508,2023-06-19,Hegesztő-1,A vészleállító ok nélkül aktiválódott.
+509,2023-06-19,Fúró-5,Az eszköz firmware-jének újraindítása sikertelen volt.
+510,2023-06-19,Présgép-1,A sebességváltó fogaskerekei nem kapcsolódnak megfelelően.
+511,2023-06-20,Szállítószalag-Z,A vezérlőpult kijelzőjén torz képi megjelenés tapasztalható.
+512,2023-06-20,Hidraulikus prés-Y,A sebességváltó fogaskerekei nem kapcsolódnak megfelelően.
+513,2023-06-20,Optikai Mérő-Delta,A PLC vezérlőegység áramszünet miatt újraindult.
+514,2023-06-21,Fúró-12,A szenzor kalibrálása sikertelen volt.
+515,2023-06-21,Hegesztő-XL,A vészleállító ok nélkül aktiválódott.
+516,2023-06-21,Robot X,A vezérlőpult kijelzőjén torz képi megjelenés tapasztalható.
+517,2023-06-22,Maró-2,Alacsony hidraulikus nyomás észlelve.
+518,2023-06-22,Fúró-X,A hidraulikus olaj hőmérséklete meghaladta a biztonsági szintet.
+519,2023-06-22,Robot Alpha,Az adagoló rendszerben eltömődés történt.
+520,2023-06-23,Emelőkar-X,Igazítási probléma a robotkarban.
+521,2023-06-23,Robot 2,Váratlan leállás szoftverhiba miatt.
+522,2023-06-23,Optikai Mérő-Delta,Túláramvédelem ismételten aktiválódik.
+523,2023-06-24,Robot Alpha,Hirtelen áramfelvétel-növekedés figyelhető meg.
+524,2023-06-24,Lézeres Vágó-B,Kopott fogaskerék cseréje szükséges.
+525,2023-06-24,CNC-3,A szenzorok hibás adatokat küldenek a vezérlőegységnek.
+526,2023-06-25,Robot 2,Az eszköz firmware-jének újraindítása sikertelen volt.
+527,2023-06-25,Présgép-9,A szenzor kalibrálása sikertelen volt.
+528,2023-06-25,Robot 2,Az áramellátás stabilitása nem garantálható a jelenlegi terhelés mellett.
+529,2023-06-26,Fúró-MAX,Alacsony hidraulikus nyomás észlelve.
+530,2023-06-26,Fúró-5,A pneumatikus rendszer tömítetlenséget mutat.
+531,2023-06-26,Maró-8,A robotvezérlő és a mechanika szinkronizációja megszakadt.
+532,2023-06-27,CNC-3,A feszültségszabályozó hibásan működik.
+533,2023-06-27,Szenzorvezérlő-1,Az integrált áramkör hőtúlterhelést kapott.
+534,2023-06-27,Szállítószalag-B,Porfelhalmozódás az optikai szenzoron.
+535,2023-06-28,Maró-2,A vészleállító ok nélkül aktiválódott.
+536,2023-06-28,Optikai Mérő-X,A kenőrendszer olajszintje az alsó határérték alá csökkent.
+537,2023-06-28,Présgép-Plus,A PLC vezérlőegység áramszünet miatt újraindult.
+538,2023-06-29,Szenzorvezérlő-3,Az optikai érzékelőt zsírréteg borítja.
+539,2023-06-29,Szállítószalag-7,Alacsony hidraulikus nyomás észlelve.
+540,2023-06-29,Robot Delta,A hőmérséklet-szabályozó egység hibás jeleket küld.
+541,2023-06-30,CNC-Micro,Beragadt működtető a lift mechanizmusban.
+542,2023-06-30,Hidraulikus prés-Y,Váratlan leállás szoftverhiba miatt.
+543,2023-06-30,Lézeres Vágó-A,A hálózati csatlakozónál magas hőmérsékletet észleltek.
+544,2023-07-01,Emelőkar-Pro,Az olajszűrő rendszer eltömődött.
+545,2023-07-01,Optikai Mérő-Delta,A hőmérséklet meghaladja a biztonságos határt.
+546,2023-07-01,Maró-2,A gépdiagnosztikai teszt során kommunikációs hibát észleltek.
+547,2023-07-02,Robot X,A szervomotor nem tartja a beállított pozíciót.
+548,2023-07-02,CNC-7,A szenzorok hibás adatokat küldenek a vezérlőegységnek.
+549,2023-07-02,Fúró-5,A hálózati csatlakozónál magas hőmérsékletet észleltek.
+550,2023-07-03,Hegesztő-XL,A vészleállító gomb nem működött megfelelően.
+551,2023-07-03,Maró-2,A sebességváltó fogaskerekei nem kapcsolódnak megfelelően.
+552,2023-07-03,Emelőkar-3,Szenzorhiba hibás vezetékezés miatt.
+553,2023-07-04,Szenzorvezérlő-3,A PLC vezérlőegység áramszünet miatt újraindult.
+554,2023-07-04,Fúró-MAX,A hidraulikus olaj hőmérséklete meghaladta a biztonsági szintet.
+555,2023-07-04,Hidraulikus prés-Y,A hálózati csatlakozónál magas hőmérsékletet észleltek.
+556,2023-07-05,Hidraulikus prés-4,Nem reagál az érintőképernyő a vezérlőpanelen.
+557,2023-07-05,Lézeres Vágó-B,Kopott fogaskerék cseréje szükséges.
+558,2023-07-05,Emelőkar-Pro,A gépindítás közben váratlan rendszerindítás történt.
+559,2023-07-06,Maró-2,A PLC vezérlőegység áramszünet miatt újraindult.
+560,2023-07-06,Maró-Z,A csatlakozók oxidációs nyomokat mutatnak.
+561,2023-07-06,Szállítószalag-7,A vezérlőpult kijelzőjén torz képi megjelenés tapasztalható.
+562,2023-07-07,Szenzorvezérlő-1,Túlmelegedett a hajtómotor működés közben.
+563,2023-07-07,Szenzorvezérlő-Beta,A berendezés érzékelője hamis riasztásokat generál.
+564,2023-07-07,CNC-3,A gépindítás közben váratlan rendszerindítás történt.
+565,2023-07-08,CNC-Micro,A szoftver modul inkompatibilitása miatt a rendszer nem indítható.
+566,2023-07-08,Robot 2,Az elektrohidraulikus szelep elakadt működés közben.
+567,2023-07-08,Maró-Z,Az olajszűrő rendszer eltömődött.
+568,2023-07-09,Hidraulikus prés-10,A vészleállító gomb nem működött megfelelően.
+569,2023-07-09,Fúró-X,Gyakori olajszivárgás a hajtótengely közelében.
+570,2023-07-09,CNC-3,A vákuumrendszer szivárgást jelez.
+571,2023-07-10,Fúró-MAX,Törött tömítés az olajtartályon.
+572,2023-07-10,Maró-Z,Az áramellátás stabilitása nem garantálható a jelenlegi terhelés mellett.
+573,2023-07-10,Lézeres Vágó-A,Alacsony hidraulikus nyomás észlelve.
+574,2023-07-11,Szállítószalag-7,A vezérlőpanel időnként nem reagál.
+575,2023-07-11,Fúró-MAX,A hőmérséklet-szabályozó egység hibás jeleket küld.
+576,2023-07-11,Optikai Mérő-Delta,A süllyesztő mechanizmus belső csapágyai sérültek.
+577,2023-07-12,Lézeres Vágó-B,Firmware inkompatibilitás frissítés után.
+578,2023-07-12,Emelőkar-Pro,Gyakori olajszivárgás a hajtótengely közelében.
+579,2023-07-12,Optikai Mérő-X,A robotvezérlő és a mechanika szinkronizációja megszakadt.
+580,2023-07-13,Hidraulikus prés-4,A gépindítás közben váratlan rendszerindítás történt.
+581,2023-07-13,Hegesztő-XL,Az elektrohidraulikus szelep elakadt működés közben.
+582,2023-07-13,CNC-3,Az üzemanyag-ellátó rendszer nyomásingadozást tapasztalt.
+583,2023-07-14,Présgép-9,A csapágyak extrém kopást mutatnak.
+584,2023-07-14,Emelőkar-X,Az integrált áramkör hőtúlterhelést kapott.
+585,2023-07-14,Szállítószalag-7,Hirtelen áramfelvétel-növekedés figyelhető meg.
+586,2023-07-15,Hegesztő-1,A hálózati csatlakozónál magas hőmérsékletet észleltek.
+587,2023-07-15,Fúró-5,Az energiafogyasztás jelentősen megnőtt az elmúlt ciklusban.
+588,2023-07-15,Szenzorvezérlő-3,A hálózati csatlakozónál magas hőmérsékletet észleltek.
+589,2023-07-16,Optikai Mérő-X,Firmware inkompatibilitás frissítés után.
+590,2023-07-16,Hegesztő-1,A hőmérséklet meghaladja a biztonságos határt.
+591,2023-07-16,Lézeres Vágó-B,Szenzorhiba hibás vezetékezés miatt.
+592,2023-07-17,Szállítószalag-C,A gépdiagnosztikai teszt során kommunikációs hibát észleltek.
+593,2023-07-17,Hidraulikus prés-Y,A kenőrendszer olajszintje az alsó határérték alá csökkent.
+594,2023-07-17,Robot Delta,A süllyesztő mechanizmus belső csapágyai sérültek.
+595,2023-07-18,Robot Alpha,Alacsony hidraulikus nyomás észlelve.
+596,2023-07-18,Hidraulikus prés-10,Az olajszűrő rendszer eltömődött.
+597,2023-07-18,Lézeres Vágó-Pro,Beragadt működtető a lift mechanizmusban.
+598,2023-07-19,Robot X,A vákuumrendszer szivárgást jelez.
+599,2023-07-19,Emelőkar-3,Az olajszűrő rendszer eltömődött.
+600,2023-07-19,Maró-2,A PLC vezérlőegység áramszünet miatt újraindult.
+601,2023-07-20,Szállítószalag-C,Gyakori olajszivárgás a hajtótengely közelében.
+602,2023-07-20,Optikai Mérő-X,Rendellenes rezgés működés közben.
+603,2023-07-20,Robot Delta,A csatlakozók oxidációs nyomokat mutatnak.
+604,2023-07-21,Lézeres Vágó-A,Az automatizált szoftverfrissítés során hibakódot jelezett.
+605,2023-07-21,Szenzorvezérlő-1,A gép kimeneti teljesítménye csökkent a meghajtó egység hibája miatt.
+606,2023-07-21,Présgép-1,Az eszköz firmware-jének újraindítása sikertelen volt.
+607,2023-07-22,Szenzorvezérlő-1,A robotvezérlő és a mechanika szinkronizációja megszakadt.
+608,2023-07-22,Emelőkar-3,Alacsony hidraulikus nyomás észlelve.
+609,2023-07-22,Présgép-9,Firmware inkompatibilitás frissítés után.
+610,2023-07-23,Fúró-5,A vibrációérzékelő határérték feletti értéket mutatott.
+611,2023-07-23,Szállítószalag-B,Az elektromos motor szénkeféi elhasználódtak.
+612,2023-07-23,Lézeres Vágó-Pro,A hőmérséklet érzékelő nem reagál a tesztparancsokra.
+613,2023-07-24,Hegesztő-1,A vezérlőpanel időnként nem reagál.
+614,2023-07-24,Optikai Mérő-Delta,A hűtőventilátor fordulatszáma csökkent.
+615,2023-07-24,Fúró-5,A rendszer kritikus memóriahibát észlelt.
+616,2023-07-25,Maró-2,Alacsony hidraulikus nyomás észlelve.
+617,2023-07-25,Hidraulikus prés-10,A szinkronizáció megszakadt a vezérlőegységek között.
+618,2023-07-25,Présgép-9,A gép kimeneti teljesítménye csökkent a meghajtó egység hibája miatt.
+619,2023-07-26,Lézeres Vágó-B,A kenőrendszer olajszintje az alsó határérték alá csökkent.
+620,2023-07-26,Lézeres Vágó-A,A szoftver modul inkompatibilitása miatt a rendszer nem indítható.
+621,2023-07-26,Szenzorvezérlő-3,A csapágyak extrém kopást mutatnak.
+622,2023-07-27,CNC-Micro,Az alkatrész érzékelő hibás adatokat továbbít.
+623,2023-07-27,Présgép-1,A hőmérséklet érzékelő nem reagál a tesztparancsokra.
+624,2023-07-27,Maró-2,A vezérlőpult kijelzőjén torz képi megjelenés tapasztalható.
+625,2023-07-28,Lézeres Vágó-Pro,A hőmérséklet meghaladja a biztonságos határt.
+626,2023-07-28,Optikai Mérő-Delta,Igazítási probléma a robotkarban.
+627,2023-07-28,Lézeres Vágó-Pro,Kopott fogaskerék cseréje szükséges.
+628,2023-07-29,Hegesztő-1,A pneumatikus rendszer tömítetlenséget mutat.
+629,2023-07-29,Lézeres Vágó-Pro,Szenzorhiba hibás vezetékezés miatt.
+630,2023-07-29,Maró-2,A berendezés érzékelője hamis riasztásokat generál.
+631,2023-07-30,Hidraulikus prés-Y,Alacsony hidraulikus nyomás észlelve.
+632,2023-07-30,Robot X,Az integrált áramkör hőtúlterhelést kapott.
+633,2023-07-30,Présgép-1,A gépdiagnosztikai teszt során kommunikációs hibát észleltek.
+634,2023-07-31,CNC-3,A vészleállító gomb nem működött megfelelően.
+635,2023-07-31,Présgép-9,A vészleállító gomb nem működött megfelelően.
+636,2023-07-31,CNC-7,A vezérlőpult kijelzőjén torz képi megjelenés tapasztalható.
+637,2023-08-01,Emelőkar-X,Az alkatrész érzékelő hibás adatokat továbbít.
+638,2023-08-01,Hegesztő-1,A szervomotor nem tartja a beállított pozíciót.
+639,2023-08-01,Szállítószalag-7,A vezérlőpanel időnként nem reagál.
+640,2023-08-02,CNC-Pro,A lánchajtás mechanikai deformációt szenvedett.
+641,2023-08-02,Szállítószalag-B,Alacsony hidraulikus nyomás észlelve.
+642,2023-08-02,CNC-Micro,A csatlakozók oxidációs nyomokat mutatnak.
+643,2023-08-03,Emelőkar-X,Az áramellátás stabilitása nem garantálható a jelenlegi terhelés mellett.
+644,2023-08-03,Fúró-MAX,Áramkimaradás történt a vezérlőegységnél.
+645,2023-08-03,Hidraulikus prés-Y,A lánchajtás mechanikai deformációt szenvedett.
+646,2023-08-04,Maró-Z,Az elektrohidraulikus szelep elakadt működés közben.
+647,2023-08-04,Emelőkar-3,A vészleállító gomb nem működött megfelelően.
+648,2023-08-04,Maró-2,A hűtőventilátor fordulatszáma csökkent.
+649,2023-08-05,Hegesztő-XL,A vezérlőpult kijelzőjén torz képi megjelenés tapasztalható.
+650,2023-08-05,CNC-3,Törött tömítés az olajtartályon.
+651,2023-08-05,Robot 2,A vibrációérzékelő határérték feletti értéket mutatott.
+652,2023-08-06,Szenzorvezérlő-3,Hidraulikus szivattyú meghibásodás a ciklus során.
+653,2023-08-06,Hidraulikus prés-10,A láncmechanizmus meghibásodott.
+654,2023-08-06,Fúró-MAX,A gép kimeneti teljesítménye csökkent a meghajtó egység hibája miatt.
+655,2023-08-07,Szállítószalag-Z,Túlzott zaj a fogaskerék mechanizmusból.
+656,2023-08-07,CNC-Micro,Törött tömítés az olajtartályon.
+657,2023-08-07,Hegesztő-MAX,A kenőrendszer olajszintje az alsó határérték alá csökkent.
+658,2023-08-08,Lézeres Vágó-Pro,A hőmérséklet-szabályozó egység hibás jeleket küld.
+659,2023-08-08,Szállítószalag-B,A süllyesztő mechanizmus belső csapágyai sérültek.
+660,2023-08-08,Lézeres Vágó-A,Porfelhalmozódás az optikai szenzoron.
+661,2023-08-09,CNC-Micro,Áramkimaradás történt a vezérlőegységnél.
+662,2023-08-09,Hidraulikus prés-4,Az energiafogyasztás jelentősen megnőtt az elmúlt ciklusban.
+663,2023-08-09,Hidraulikus prés-10,Beragadt működtető a lift mechanizmusban.
+664,2023-08-10,Présgép-9,A láncvezető kopás miatt nem működik megfelelően.
+665,2023-08-10,Fúró-12,A robotvezérlő és a mechanika szinkronizációja megszakadt.
+666,2023-08-10,Lézeres Vágó-A,Porfelhalmozódás az optikai szenzoron.
+667,2023-08-11,Maró-8,A pneumatikus rendszer tömítetlenséget mutat.
+668,2023-08-11,Lézeres Vágó-A,A pneumatikus rendszer tömítetlenséget mutat.
+669,2023-08-11,CNC-Pro,Nem reagál az érintőképernyő a vezérlőpanelen.
+670,2023-08-12,CNC-Micro,A gépdiagnosztikai teszt során kommunikációs hibát észleltek.
+671,2023-08-12,Maró-Z,A hidraulikus olaj hőmérséklete meghaladta a biztonsági szintet.
+672,2023-08-12,Szállítószalag-Z,A rendszer kritikus memóriahibát észlelt.
+673,2023-08-13,Lézeres Vágó-B,A hőmérséklet érzékelő nem reagál a tesztparancsokra.
+674,2023-08-13,CNC-7,A hőmérséklet-szabályozó egység hibás jeleket küld.
+675,2023-08-13,Fúró-5,A robotkar mozgása akadozik.
+676,2023-08-14,Maró-2,A hálózati csatlakozónál magas hőmérsékletet észleltek.
+677,2023-08-14,Robot 2,Porfelhalmozódás az optikai szenzoron.
+678,2023-08-14,Emelőkar-3,Az elektromos motor szénkeféi elhasználódtak.
+679,2023-08-15,Hegesztő-MAX,Alacsony hidraulikus nyomás észlelve.
+680,2023-08-15,Szállítószalag-Z,A pneumatikus rendszer tömítetlenséget mutat.
+681,2023-08-15,Robot Alpha,Az optikai érzékelőt zsírréteg borítja.
+682,2023-08-16,Optikai Mérő-2,Laza csatlakozás a fő tápbemeneten.
+683,2023-08-16,Lézeres Vágó-B,A pneumatikus csatlakozók között nyomásveszteség tapasztalható.
+684,2023-08-16,Hidraulikus prés-Y,Az elektromos motor szénkeféi elhasználódtak.
+685,2023-08-17,Maró-8,A feszültségszabályozó hibásan működik.
+686,2023-08-17,Fúró-12,Az alkatrész érzékelő hibás adatokat továbbít.
+687,2023-08-17,Fúró-MAX,Alacsony hidraulikus nyomás észlelve.
+688,2023-08-18,Hegesztő-MAX,Túlmelegedett a hajtómotor működés közben.
+689,2023-08-18,Hidraulikus prés-4,A robotvezérlő és a mechanika szinkronizációja megszakadt.
+690,2023-08-18,Lézeres Vágó-Pro,Az eszköz firmware-jének újraindítása sikertelen volt.
+691,2023-08-19,Robot Alpha,Az elektrohidraulikus szelep elakadt működés közben.
+692,2023-08-19,Robot Delta,Hűtőrendszer meghibásodás jelentve.
+693,2023-08-19,Présgép-1,A kenőrendszer olajszintje az alsó határérték alá csökkent.
+694,2023-08-20,Szenzorvezérlő-1,Igazítási probléma a robotkarban.
+695,2023-08-20,Hegesztő-1,A vezérlőpult kijelzőjén torz képi megjelenés tapasztalható.
+696,2023-08-20,CNC-3,Az érzékelők jelzése nem egyezik a valós pozícióval.
+697,2023-08-21,CNC-Micro,Igazítási probléma a robotkarban.
+698,2023-08-21,Présgép-1,Gyakori olajszivárgás a hajtótengely közelében.
+699,2023-08-21,Optikai Mérő-X,Laza csatlakozás a fő tápbemeneten.
+700,2023-08-22,Optikai Mérő-Delta,A szenzorok hibás adatokat küldenek a vezérlőegységnek.
+701,2023-08-22,Optikai Mérő-X,A szállítószalag lánca megszakadt.
+702,2023-08-22,Fúró-5,Hűtőrendszer meghibásodás jelentve.
+703,2023-08-23,Maró-2,A vészjelző rendszer váratlan hibát jelzett.
+704,2023-08-23,Optikai Mérő-Delta,A szoftver modul inkompatibilitása miatt a rendszer nem indítható.
+705,2023-08-23,Szenzorvezérlő-1,Rendellenes rezgés működés közben.
+706,2023-08-24,Szállítószalag-Z,A hidraulikus olaj hőmérséklete meghaladta a biztonsági szintet.
+707,2023-08-24,CNC-7,Laza csatlakozás a fő tápbemeneten.
+708,2023-08-24,CNC-Pro,A szenzorok hibás adatokat küldenek a vezérlőegységnek.
+709,2023-08-25,Fúró-MAX,Az olajszűrő rendszer eltömődött.
+710,2023-08-25,Optikai Mérő-X,A vezérlőpanel időnként nem reagál.
+711,2023-08-25,Hegesztő-1,A hőmérséklet érzékelő nem reagál a tesztparancsokra.
+712,2023-08-26,Emelőkar-3,A gépdiagnosztikai teszt során kommunikációs hibát észleltek.
+713,2023-08-26,Szállítószalag-C,A vészleállító gomb nem működött megfelelően.
+714,2023-08-26,Fúró-MAX,Beragadt működtető a lift mechanizmusban.
+715,2023-08-27,Optikai Mérő-2,Hűtőrendszer meghibásodás jelentve.
+716,2023-08-27,Optikai Mérő-Delta,Porfelhalmozódás az optikai szenzoron.
+717,2023-08-27,Présgép-1,Az alkatrész érzékelő hibás adatokat továbbít.
+718,2023-08-28,Szenzorvezérlő-1,A szoftver modul inkompatibilitása miatt a rendszer nem indítható.
+719,2023-08-28,Fúró-5,Törött tömítés az olajtartályon.
+720,2023-08-28,Fúró-MAX,Az elektromos motor szénkeféi elhasználódtak.
+721,2023-08-29,Présgép-1,A lánchajtás mechanikai deformációt szenvedett.
+722,2023-08-29,Lézeres Vágó-A,Porfelhalmozódás az optikai szenzoron.
+723,2023-08-29,Emelőkar-X,A szállítószalag lánca megszakadt.
+724,2023-08-30,Szenzorvezérlő-1,A hűtőventilátor fordulatszáma csökkent.
+725,2023-08-30,Optikai Mérő-Delta,A süllyesztő mechanizmus belső csapágyai sérültek.
+726,2023-08-30,Lézeres Vágó-Pro,A pneumatikus rendszer tömítetlenséget mutat.
+727,2023-08-31,Présgép-Plus,A hőmérséklet érzékelő nem reagál a tesztparancsokra.
+728,2023-08-31,Hegesztő-1,A láncvezető kopás miatt nem működik megfelelően.
+729,2023-08-31,Hidraulikus prés-Y,A motor túlmelegedett és leállt.
+730,2023-09-01,Szállítószalag-7,Az olajszűrő rendszer eltömődött.
+731,2023-09-01,Robot X,A hőcserélő szivárog a csatlakozási pontnál.
+732,2023-09-01,Fúró-X,Az optikai érzékelőt zsírréteg borítja.
+733,2023-09-02,Szenzorvezérlő-Beta,A rendszer kritikus memóriahibát észlelt.
+734,2023-09-02,Robot Alpha,Igazítási probléma a robotkarban.
+735,2023-09-02,Maró-2,A vezérlőpult kijelzőjén torz képi megjelenés tapasztalható.
+736,2023-09-03,Szenzorvezérlő-1,A csatlakozók oxidációs nyomokat mutatnak.
+737,2023-09-03,Szenzorvezérlő-1,Az üzemanyag-ellátó rendszer nyomásingadozást tapasztalt.
+738,2023-09-03,Hidraulikus prés-4,A gépdiagnosztikai teszt során kommunikációs hibát észleltek.
+739,2023-09-04,Lézeres Vágó-B,A gép kimeneti teljesítménye csökkent a meghajtó egység hibája miatt.
+740,2023-09-04,Robot Delta,A pneumatikus rendszer tömítetlenséget mutat.
+741,2023-09-04,Emelőkar-3,A süllyesztő mechanizmus belső csapágyai sérültek.
+742,2023-09-05,Optikai Mérő-X,A vészleállító gomb nem működött megfelelően.
+743,2023-09-05,Fúró-12,A vészleállító gomb nem működött megfelelően.
+744,2023-09-05,Robot X,Túlzott zaj a fogaskerék mechanizmusból.
+745,2023-09-06,Lézeres Vágó-A,A PLC vezérlőegység áramszünet miatt újraindult.
+746,2023-09-06,Robot Alpha,Az integrált áramkör hőtúlterhelést kapott.
+747,2023-09-06,Lézeres Vágó-A,Az adagoló rendszerben eltömődés történt.
+748,2023-09-07,Optikai Mérő-Delta,A csapágyak extrém kopást mutatnak.
+749,2023-09-07,Optikai Mérő-X,Porfelhalmozódás az optikai szenzoron.
+750,2023-09-07,Robot 2,A berendezés érzékelője hamis riasztásokat generál.
+751,2023-09-08,Emelőkar-3,A hőmérséklet érzékelő nem reagál a tesztparancsokra.
+752,2023-09-08,Fúró-5,A szivattyú működése közben szokatlan zaj hallható.
+753,2023-09-08,Lézeres Vágó-A,A vezérlőpult kijelzőjén torz képi megjelenés tapasztalható.
+754,2023-09-09,CNC-Pro,A szenzorok hibás adatokat küldenek a vezérlőegységnek.
+755,2023-09-09,Fúró-5,A pneumatikus rendszer tömítetlenséget mutat.
+756,2023-09-09,Szenzorvezérlő-1,Az áramellátás stabilitása nem garantálható a jelenlegi terhelés mellett.
+757,2023-09-10,CNC-3,A sebességváltó fogaskerekei nem kapcsolódnak megfelelően.
+758,2023-09-10,Optikai Mérő-Delta,Firmware inkompatibilitás frissítés után.
+759,2023-09-10,Maró-Z,A pneumatikus csatlakozók között nyomásveszteség tapasztalható.
+760,2023-09-11,Emelőkar-Pro,Igazítási probléma a robotkarban.
+761,2023-09-11,Maró-8,A vezérlőpanel időnként nem reagál.
+762,2023-09-11,Optikai Mérő-Delta,A vákuumrendszer szivárgást jelez.
+763,2023-09-12,Hidraulikus prés-4,A szenzor kalibrálása sikertelen volt.
+764,2023-09-12,Maró-8,A vezérlőpult kijelzőjén torz képi megjelenés tapasztalható.
+765,2023-09-12,Fúró-X,A vészleállító ok nélkül aktiválódott.
+766,2023-09-13,Emelőkar-Pro,A vészleállító ok nélkül aktiválódott.
+767,2023-09-13,Fúró-5,A lánchajtás mechanikai deformációt szenvedett.
+768,2023-09-13,Fúró-12,Firmware inkompatibilitás frissítés után.
+769,2023-09-14,Robot 2,A berendezés érzékelője hamis riasztásokat generál.
+770,2023-09-14,Szállítószalag-Z,Hirtelen áramfelvétel-növekedés figyelhető meg.
+771,2023-09-14,Hegesztő-XL,A pneumatikus csatlakozók között nyomásveszteség tapasztalható.
+772,2023-09-15,Lézeres Vágó-B,A vezérlőpult kijelzőjén torz képi megjelenés tapasztalható.
+773,2023-09-15,Hidraulikus prés-4,Túlzott zaj a fogaskerék mechanizmusból.
+774,2023-09-15,Emelőkar-X,Firmware inkompatibilitás frissítés után.
+775,2023-09-16,CNC-7,Hirtelen áramfelvétel-növekedés figyelhető meg.
+776,2023-09-16,Présgép-1,A vészleállító gomb nem működött megfelelően.
+777,2023-09-16,Maró-2,Túlmelegedett a hajtómotor működés közben.
+778,2023-09-17,Fúró-12,A lánchajtás mechanikai deformációt szenvedett.
+779,2023-09-17,Hidraulikus prés-4,A feszültségszabályozó hibásan működik.
+780,2023-09-17,Lézeres Vágó-A,Az érzékelők jelzése nem egyezik a valós pozícióval.
+781,2023-09-18,Szállítószalag-Z,A szoftver modul inkompatibilitása miatt a rendszer nem indítható.
+782,2023-09-18,Szállítószalag-B,A hálózati csatlakozónál magas hőmérsékletet észleltek.
+783,2023-09-18,Szenzorvezérlő-1,Törött tömítés az olajtartályon.
+784,2023-09-19,Optikai Mérő-2,Túlzott zaj a fogaskerék mechanizmusból.
+785,2023-09-19,Robot 2,Az elektrohidraulikus szelep elakadt működés közben.
+786,2023-09-19,Hegesztő-1,A gépdiagnosztikai teszt során kommunikációs hibát észleltek.
+787,2023-09-20,Szállítószalag-C,Beragadt működtető a lift mechanizmusban.
+788,2023-09-20,Maró-Z,Kopott fogaskerék cseréje szükséges.
+789,2023-09-20,Fúró-12,Túlmelegedett a hajtómotor működés közben.
+790,2023-09-21,Emelőkar-3,Áramkimaradás történt a vezérlőegységnél.
+791,2023-09-21,Fúró-5,A motor túlmelegedett és leállt.
+792,2023-09-21,Szenzorvezérlő-3,A csapágyak extrém kopást mutatnak.
+793,2023-09-22,CNC-7,A vészleállító ok nélkül aktiválódott.
+794,2023-09-22,Maró-Z,A rendszer kritikus memóriahibát észlelt.
+795,2023-09-22,Szállítószalag-C,A szivattyú működése közben szokatlan zaj hallható.
+796,2023-09-23,Robot Delta,A robotkar mozgása akadozik.
+797,2023-09-23,Présgép-1,A vezérlőpult kijelzőjén torz képi megjelenés tapasztalható.
+798,2023-09-23,Hegesztő-XL,A rendszer kritikus memóriahibát észlelt.
+799,2023-09-24,Emelőkar-3,Hűtőrendszer meghibásodás jelentve.
+800,2023-09-24,Szenzorvezérlő-Beta,Az eszköz firmware-jének újraindítása sikertelen volt.
+801,2023-09-24,Présgép-Plus,Az érzékelők jelzése nem egyezik a valós pozícióval.
+802,2023-09-25,Présgép-Plus,A vezérlőpanel időnként nem reagál.
+803,2023-09-25,Maró-Z,A vészjelző rendszer váratlan hibát jelzett.
+804,2023-09-25,Lézeres Vágó-Pro,A feszültségszabályozó hibásan működik.
+805,2023-09-26,CNC-3,A vibrációérzékelő határérték feletti értéket mutatott.
+806,2023-09-26,Emelőkar-Pro,A szinkronizáció megszakadt a vezérlőegységek között.
+807,2023-09-26,Optikai Mérő-2,A kenőrendszer olajszintje az alsó határérték alá csökkent.
+808,2023-09-27,CNC-3,Az integrált áramkör hőtúlterhelést kapott.
+809,2023-09-27,CNC-Pro,A hőmérséklet meghaladja a biztonságos határt.
+810,2023-09-27,Szállítószalag-C,A szervomotor nem tartja a beállított pozíciót.
+811,2023-09-28,Présgép-1,Az elektrohidraulikus szelep elakadt működés közben.
+812,2023-09-28,Emelőkar-X,Túlzott zaj a fogaskerék mechanizmusból.
+813,2023-09-28,Maró-2,A csatlakozók oxidációs nyomokat mutatnak.
+814,2023-09-29,Présgép-Plus,Porfelhalmozódás az optikai szenzoron.
+815,2023-09-29,Présgép-1,A szervomotor nem tartja a beállított pozíciót.
+816,2023-09-29,Szenzorvezérlő-1,Laza csatlakozás a fő tápbemeneten.
+817,2023-09-30,Szállítószalag-7,Firmware inkompatibilitás frissítés után.
+818,2023-09-30,Szállítószalag-Z,Az üzemanyag-ellátó rendszer nyomásingadozást tapasztalt.
+819,2023-09-30,Robot X,A hőmérséklet érzékelő nem reagál a tesztparancsokra.
+820,2023-10-01,Lézeres Vágó-Pro,A robotvezérlő és a mechanika szinkronizációja megszakadt.
+821,2023-10-01,Hidraulikus prés-10,Túláramvédelem ismételten aktiválódik.
+822,2023-10-01,Hegesztő-MAX,A szenzorok hibás adatokat küldenek a vezérlőegységnek.
+823,2023-10-02,CNC-Micro,Az elektrohidraulikus szelep elakadt működés közben.
+824,2023-10-02,Robot X,A PLC vezérlőegység áramszünet miatt újraindult.
+825,2023-10-02,Hidraulikus prés-Y,Az olajszűrő rendszer eltömődött.
+826,2023-10-03,Optikai Mérő-X,Hűtőrendszer meghibásodás jelentve.
+827,2023-10-03,Robot 2,Rendellenes rezgés működés közben.
+828,2023-10-03,Lézeres Vágó-A,A hűtőventilátor fordulatszáma csökkent.
+829,2023-10-04,Présgép-9,A pneumatikus csatlakozók között nyomásveszteség tapasztalható.
+830,2023-10-04,CNC-Micro,A sebességváltó fogaskerekei nem kapcsolódnak megfelelően.
+831,2023-10-04,Emelőkar-3,Alacsony hidraulikus nyomás észlelve.
+832,2023-10-05,Maró-8,Gyakori olajszivárgás a hajtótengely közelében.
+833,2023-10-05,Hidraulikus prés-Y,Az alkatrész érzékelő hibás adatokat továbbít.
+834,2023-10-05,Maró-Z,A motor túlmelegedett és leállt.
+835,2023-10-06,Szállítószalag-B,A pneumatikus rendszer tömítetlenséget mutat.
+836,2023-10-06,Robot 2,A gépindítás közben váratlan rendszerindítás történt.
+837,2023-10-06,Lézeres Vágó-Pro,A hálózati csatlakozónál magas hőmérsékletet észleltek.
+838,2023-10-07,Optikai Mérő-X,Firmware inkompatibilitás frissítés után.
+839,2023-10-07,Robot 2,A szivattyú működése közben szokatlan zaj hallható.
+840,2023-10-07,Szenzorvezérlő-3,A vészleállító gomb nem működött megfelelően.
+841,2023-10-08,Szállítószalag-Z,A láncmechanizmus meghibásodott.
+842,2023-10-08,Optikai Mérő-X,Az olajszűrő rendszer eltömődött.
+843,2023-10-08,CNC-Pro,Törött tömítés az olajtartályon.
+844,2023-10-09,Robot 2,A feszültségszabályozó hibásan működik.
+845,2023-10-09,CNC-Micro,A csatlakozók oxidációs nyomokat mutatnak.
+846,2023-10-09,Hegesztő-XL,Nem reagál az érintőképernyő a vezérlőpanelen.
+847,2023-10-10,Maró-2,Az elektrohidraulikus szelep elakadt működés közben.
+848,2023-10-10,Optikai Mérő-Delta,A hőmérséklet meghaladja a biztonságos határt.
+849,2023-10-10,Hegesztő-1,Az elektromos motor szénkeféi elhasználódtak.
+850,2023-10-11,Robot 2,Az integrált áramkör hőtúlterhelést kapott.
+851,2023-10-11,Fúró-X,Túláramvédelem ismételten aktiválódik.
+852,2023-10-11,Fúró-5,A robotkar mozgása akadozik.
+853,2023-10-12,Hegesztő-MAX,Szenzorhiba hibás vezetékezés miatt.
+854,2023-10-12,Hegesztő-1,A csatlakozók oxidációs nyomokat mutatnak.
+855,2023-10-12,Szállítószalag-B,A hidraulikus olaj hőmérséklete meghaladta a biztonsági szintet.
+856,2023-10-13,Optikai Mérő-X,A pneumatikus rendszer tömítetlenséget mutat.
+857,2023-10-13,Fúró-MAX,Alacsony hidraulikus nyomás észlelve.
+858,2023-10-13,Lézeres Vágó-Pro,A kenőrendszer olajszintje az alsó határérték alá csökkent.
+859,2023-10-14,Szenzorvezérlő-1,Túlmelegedett a hajtómotor működés közben.
+860,2023-10-14,Maró-8,A robotkar mozgása akadozik.
+861,2023-10-14,Optikai Mérő-2,Az adagoló rendszerben eltömődés történt.
+862,2023-10-15,Hidraulikus prés-Y,Túlzott zaj a fogaskerék mechanizmusból.
+863,2023-10-15,Robot Alpha,A szervomotor nem tartja a beállított pozíciót.
+864,2023-10-15,Optikai Mérő-X,A szállítószalag lánca megszakadt.
+865,2023-10-16,CNC-7,A hálózati csatlakozónál magas hőmérsékletet észleltek.
+866,2023-10-16,Robot X,A szoftver modul inkompatibilitása miatt a rendszer nem indítható.
+867,2023-10-16,Robot Alpha,A szenzor kalibrálása sikertelen volt.
+868,2023-10-17,Robot Alpha,A vészleállító ok nélkül aktiválódott.
+869,2023-10-17,Présgép-Plus,Az olajszűrő rendszer eltömődött.
+870,2023-10-17,Hegesztő-XL,A rendszer kritikus memóriahibát észlelt.
+871,2023-10-18,Emelőkar-3,Beragadt működtető a lift mechanizmusban.
+872,2023-10-18,Présgép-1,Az automatizált szoftverfrissítés során hibakódot jelezett.
+873,2023-10-18,Emelőkar-Pro,A hálózati csatlakozónál magas hőmérsékletet észleltek.
+874,2023-10-19,Szenzorvezérlő-1,A hálózati csatlakozónál magas hőmérsékletet észleltek.
+875,2023-10-19,Szenzorvezérlő-Beta,A vezérlőpult kijelzőjén torz képi megjelenés tapasztalható.
+876,2023-10-19,Optikai Mérő-2,A robotvezérlő és a mechanika szinkronizációja megszakadt.
+877,2023-10-20,Szállítószalag-B,Az olajszűrő rendszer eltömődött.
+878,2023-10-20,Szenzorvezérlő-3,A robotkar mozgása akadozik.
+879,2023-10-20,Lézeres Vágó-A,Az elektrohidraulikus szelep elakadt működés közben.
+880,2023-10-21,Szenzorvezérlő-1,Az elektrohidraulikus szelep elakadt működés közben.
+881,2023-10-21,Hidraulikus prés-4,Túlzott zaj a fogaskerék mechanizmusból.
+882,2023-10-21,Szállítószalag-7,Porfelhalmozódás az optikai szenzoron.
+883,2023-10-22,Robot 2,A hőcserélő szivárog a csatlakozási pontnál.
+884,2023-10-22,Szállítószalag-C,Az eszköz firmware-jének újraindítása sikertelen volt.
+885,2023-10-22,Hegesztő-MAX,Igazítási probléma a robotkarban.
+886,2023-10-23,Optikai Mérő-X,Laza csatlakozás a fő tápbemeneten.
+887,2023-10-23,Hidraulikus prés-Y,A pneumatikus rendszer tömítetlenséget mutat.
+888,2023-10-23,Fúró-12,A szenzorok hibás adatokat küldenek a vezérlőegységnek.
+889,2023-10-24,Szállítószalag-Z,Törött tömítés az olajtartályon.
+890,2023-10-24,Hegesztő-1,A motor túlmelegedett és leállt.
+891,2023-10-24,Robot 2,A gép kimeneti teljesítménye csökkent a meghajtó egység hibája miatt.
+892,2023-10-25,Hidraulikus prés-4,Alacsony hidraulikus nyomás észlelve.
+893,2023-10-25,Optikai Mérő-2,A vezérlőpanel időnként nem reagál.
+894,2023-10-25,Lézeres Vágó-A,A kenőrendszer olajszintje az alsó határérték alá csökkent.
+895,2023-10-26,Optikai Mérő-X,Alacsony hidraulikus nyomás észlelve.
+896,2023-10-26,Robot Delta,A PLC vezérlőegység áramszünet miatt újraindult.
+897,2023-10-26,Fúró-5,Az alkatrész érzékelő hibás adatokat továbbít.
+898,2023-10-27,CNC-Micro,Nem reagál az érintőképernyő a vezérlőpanelen.
+899,2023-10-27,Optikai Mérő-2,Laza csatlakozás a fő tápbemeneten.
+900,2023-10-27,Lézeres Vágó-A,Az adagoló rendszerben eltömődés történt.
+901,2023-10-28,CNC-Pro,A pneumatikus rendszer tömítetlenséget mutat.
+902,2023-10-28,Emelőkar-Pro,Hidraulikus szivattyú meghibásodás a ciklus során.
+903,2023-10-28,Szállítószalag-Z,Túlzott zaj a fogaskerék mechanizmusból.
+904,2023-10-29,Hegesztő-XL,Firmware inkompatibilitás frissítés után.
+905,2023-10-29,Fúró-MAX,A vezérlőpult kijelzőjén torz képi megjelenés tapasztalható.
+906,2023-10-29,Hidraulikus prés-Y,A rendszer kritikus memóriahibát észlelt.
+907,2023-10-30,Maró-Z,Az adagoló rendszerben eltömődés történt.
+908,2023-10-30,Fúró-MAX,A vákuumrendszer szivárgást jelez.
+909,2023-10-30,Emelőkar-X,Az áramellátás stabilitása nem garantálható a jelenlegi terhelés mellett.
+910,2023-10-31,Szállítószalag-Z,Az elektrohidraulikus szelep elakadt működés közben.
+911,2023-10-31,Fúró-12,A robotvezérlő és a mechanika szinkronizációja megszakadt.
+912,2023-10-31,Szenzorvezérlő-Beta,A rendszer kritikus memóriahibát észlelt.
+913,2023-11-01,Optikai Mérő-X,Porfelhalmozódás az optikai szenzoron.
+914,2023-11-01,Szenzorvezérlő-3,A gépindítás közben váratlan rendszerindítás történt.
+915,2023-11-01,Hegesztő-1,Áramkimaradás történt a vezérlőegységnél.
+916,2023-11-02,Lézeres Vágó-B,Váratlan leállás szoftverhiba miatt.
+917,2023-11-02,Hegesztő-XL,A gép kimeneti teljesítménye csökkent a meghajtó egység hibája miatt.
+918,2023-11-02,Présgép-9,A vészjelző rendszer váratlan hibát jelzett.
+919,2023-11-03,Emelőkar-Pro,A szállítószalag lánca megszakadt.
+920,2023-11-03,Robot Alpha,Az adagoló rendszerben eltömődés történt.
+921,2023-11-03,Fúró-MAX,A vészleállító ok nélkül aktiválódott.
+922,2023-11-04,Optikai Mérő-Delta,A szállítószalag lánca megszakadt.
+923,2023-11-04,CNC-Micro,A vezérlőpult kijelzőjén torz képi megjelenés tapasztalható.
+924,2023-11-04,Fúró-5,Igazítási probléma a robotkarban.
+925,2023-11-05,Hegesztő-XL,Szenzorhiba hibás vezetékezés miatt.
+926,2023-11-05,Optikai Mérő-X,A szoftver modul inkompatibilitása miatt a rendszer nem indítható.
+927,2023-11-05,Szállítószalag-C,A robotkar mozgása akadozik.
+928,2023-11-06,Lézeres Vágó-A,A motor túlmelegedett és leállt.
+929,2023-11-06,Maró-8,A kenőrendszer olajszintje az alsó határérték alá csökkent.
+930,2023-11-06,Robot Alpha,A feszültségszabályozó hibásan működik.
+931,2023-11-07,Hegesztő-1,Az érzékelők jelzése nem egyezik a valós pozícióval.
+932,2023-11-07,Fúró-5,Igazítási probléma a robotkarban.
+933,2023-11-07,Maró-2,Az eszköz firmware-jének újraindítása sikertelen volt.
+934,2023-11-08,Emelőkar-X,A pneumatikus csatlakozók között nyomásveszteség tapasztalható.
+935,2023-11-08,Szállítószalag-C,Hirtelen áramfelvétel-növekedés figyelhető meg.
+936,2023-11-08,Szállítószalag-7,Az érzékelők jelzése nem egyezik a valós pozícióval.
+937,2023-11-09,Hidraulikus prés-Y,A hőmérséklet érzékelő nem reagál a tesztparancsokra.
+938,2023-11-09,CNC-7,Az elektromos motor szénkeféi elhasználódtak.
+939,2023-11-09,Emelőkar-Pro,A süllyesztő mechanizmus belső csapágyai sérültek.
+940,2023-11-10,Maró-2,Az automatizált szoftverfrissítés során hibakódot jelezett.
+941,2023-11-10,Hidraulikus prés-4,A gép kimeneti teljesítménye csökkent a meghajtó egység hibája miatt.
+942,2023-11-10,Hegesztő-XL,A vákuumrendszer szivárgást jelez.
+943,2023-11-11,Szállítószalag-C,Az eszköz firmware-jének újraindítása sikertelen volt.
+944,2023-11-11,Hidraulikus prés-Y,Az elektromos motor szénkeféi elhasználódtak.
+945,2023-11-11,Fúró-MAX,A láncvezető kopás miatt nem működik megfelelően.
+946,2023-11-12,Szállítószalag-Z,Kopott fogaskerék cseréje szükséges.
+947,2023-11-12,Présgép-Plus,Hűtőrendszer meghibásodás jelentve.
+948,2023-11-12,Robot Delta,A szenzor kalibrálása sikertelen volt.
+949,2023-11-13,CNC-7,A kenőrendszer olajszintje az alsó határérték alá csökkent.
+950,2023-11-13,Maró-Z,Az alkatrész érzékelő hibás adatokat továbbít.
+951,2023-11-13,Lézeres Vágó-Pro,A pneumatikus csatlakozók között nyomásveszteség tapasztalható.
+952,2023-11-14,Hegesztő-1,A robotvezérlő és a mechanika szinkronizációja megszakadt.
+953,2023-11-14,Szenzorvezérlő-Beta,A szállítószalag lánca megszakadt.
+954,2023-11-14,Maró-8,Az optikai érzékelőt zsírréteg borítja.
+955,2023-11-15,Szállítószalag-Z,Az eszköz firmware-jének újraindítása sikertelen volt.
+956,2023-11-15,Maró-2,A robotvezérlő és a mechanika szinkronizációja megszakadt.
+957,2023-11-15,Emelőkar-Pro,Az adagoló rendszerben eltömődés történt.
+958,2023-11-16,Optikai Mérő-X,Firmware inkompatibilitás frissítés után.
+959,2023-11-16,Szállítószalag-B,A szivattyú működése közben szokatlan zaj hallható.
+960,2023-11-16,Optikai Mérő-X,A hőcserélő szivárog a csatlakozási pontnál.
+961,2023-11-17,Hidraulikus prés-4,A szivattyú működése közben szokatlan zaj hallható.
+962,2023-11-17,Lézeres Vágó-B,Firmware inkompatibilitás frissítés után.
+963,2023-11-17,Szállítószalag-C,A szenzor kalibrálása sikertelen volt.
+964,2023-11-18,Optikai Mérő-Delta,Laza csatlakozás a fő tápbemeneten.
+965,2023-11-18,Optikai Mérő-X,A feszültségszabályozó hibásan működik.
+966,2023-11-18,Szenzorvezérlő-3,Az adagoló rendszerben eltömődés történt.
+967,2023-11-19,Présgép-1,A gépindítás közben váratlan rendszerindítás történt.
+968,2023-11-19,Maró-Z,Kopott fogaskerék cseréje szükséges.
+969,2023-11-19,Optikai Mérő-Delta,Az integrált áramkör hőtúlterhelést kapott.
+970,2023-11-20,Présgép-Plus,Firmware inkompatibilitás frissítés után.
+971,2023-11-20,Présgép-Plus,A szállítószalag lánca megszakadt.
+972,2023-11-20,Fúró-5,Igazítási probléma a robotkarban.
+973,2023-11-21,Emelőkar-3,A csapágyak extrém kopást mutatnak.
+974,2023-11-21,Szenzorvezérlő-Beta,Hirtelen áramfelvétel-növekedés figyelhető meg.
+975,2023-11-21,Emelőkar-3,Kopott fogaskerék cseréje szükséges.
+976,2023-11-22,CNC-Micro,A hálózati csatlakozónál magas hőmérsékletet észleltek.
+977,2023-11-22,Fúró-MAX,A gépdiagnosztikai teszt során kommunikációs hibát észleltek.
+978,2023-11-22,CNC-3,Az energiafogyasztás jelentősen megnőtt az elmúlt ciklusban.
+979,2023-11-23,Fúró-MAX,A süllyesztő mechanizmus belső csapágyai sérültek.
+980,2023-11-23,Robot Alpha,Beragadt működtető a lift mechanizmusban.
+981,2023-11-23,Szállítószalag-B,A hűtőventilátor fordulatszáma csökkent.
+982,2023-11-24,Présgép-1,Az optikai érzékelőt zsírréteg borítja.
+983,2023-11-24,Robot Delta,A vibrációérzékelő határérték feletti értéket mutatott.
+984,2023-11-24,Optikai Mérő-2,Az elektrohidraulikus szelep elakadt működés közben.
+985,2023-11-25,Robot X,Az elektrohidraulikus szelep elakadt működés közben.
+986,2023-11-25,Emelőkar-X,A vibrációérzékelő határérték feletti értéket mutatott.
+987,2023-11-25,Présgép-1,Az üzemanyag-ellátó rendszer nyomásingadozást tapasztalt.
+988,2023-11-26,Fúró-X,A gépindítás közben váratlan rendszerindítás történt.
+989,2023-11-26,Emelőkar-Pro,A vészjelző rendszer váratlan hibát jelzett.
+990,2023-11-26,Maró-8,Az érzékelők jelzése nem egyezik a valós pozícióval.
+991,2023-11-27,Robot 2,Az üzemanyag-ellátó rendszer nyomásingadozást tapasztalt.
+992,2023-11-27,Maró-2,Túláramvédelem ismételten aktiválódik.
+993,2023-11-27,Maró-Z,Az energiafogyasztás jelentősen megnőtt az elmúlt ciklusban.
+994,2023-11-28,Robot 2,A berendezés érzékelője hamis riasztásokat generál.
+995,2023-11-28,Emelőkar-3,A láncvezető kopás miatt nem működik megfelelően.
+996,2023-11-28,Présgép-9,A berendezés érzékelője hamis riasztásokat generál.
+997,2023-11-29,Szenzorvezérlő-3,A hőcserélő szivárog a csatlakozási pontnál.
+998,2023-11-29,Hidraulikus prés-4,A szervomotor nem tartja a beállított pozíciót.
+999,2023-11-29,Lézeres Vágó-A,Az elektromos motor szénkeféi elhasználódtak.
+1000,2023-11-30,Présgép-Plus,A kenőrendszer olajszintje az alsó határérték alá csökkent.

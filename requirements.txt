@@ -1,0 +1,9 @@
+huspacy
+matplotlib
+numpy
+pandas
+plotly
+nbformat
+spacy
+wordcloud
+joblib
